@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Noční tango</text>
+  </docTitle>
+  <docAuthor>
+    <text>Jiří Kratochvil</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>1. DÍL V Brně na Kolišti</text>
+      </navLabel>
+      <content src="Text/nocni_tango_007.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>2. DÍL Vzhůru na Sibiř</text>
+      </navLabel>
+      <content src="Text/nocni_tango_008.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>3. DÍL Křik Mínótaurův</text>
+      </navLabel>
+      <content src="Text/nocni_tango_009.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>4. DÍL Noční tango</text>
+      </navLabel>
+      <content src="Text/nocni_tango_010.xhtml#toc_marker-4"/>
+    </navPoint>
+  </navMap>
+</ncx>

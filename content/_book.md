@@ -1,36 +1,37 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Noční tango
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Jiří Kratochvil
+  publisher: Městská knihovna v Praze
+  modified: '2020-09-21T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - nocni_tango_001.html
+  - nocni_tango_002.html
+  - nocni_tango_003.html
+  - nocni_tango_004.html
+  - nocni_tango_005.html
+  - nocni_tango_006.html
+  - nocni_tango_007.html
+  - nocni_tango_008.html
+  - nocni_tango_009.html
+  - nocni_tango_010.html
+  - nocni_tango_011.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---

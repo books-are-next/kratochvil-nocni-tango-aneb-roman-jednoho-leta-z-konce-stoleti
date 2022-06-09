@@ -3,8 +3,6 @@ title: 3\. DÍL Křik Mínótaurův
 contentType: prose
 ---
 
-  
-
 Jmenuju se Šebestián, jsem historik umění a bydlím na Durďákově ulici, hned tady kousek za rohem, nedaleko hospody U Kaštanů. Mám syna Kryštofa, o němž bych raději pomlčel, ale budu muset promluvit. Jeho matka, má první žena, zemřela při porodu a Kryštof se narodil mongoloidní. Je mu už jednačtyřicet, ale chová se a myslí, jako by mu bylo pět. Většinu svého života strávil v ústavu, ale ta léta právě skončila. Ten dům, kde byl ústav, totiž restituovali, vrátili původním majitelům. Chovance přemístili do nějakého jiného ústavu, kde je ovšem tím pádem narváno. A Kryštofovi se tam z toho důvodu znelíbilo a utekl. Stal se z něho běženec a je teď na cestě za mnou. Ale než sem dorazí, tak si zatím něco povězme. Správně, takhle by to mohlo začít. Takže s pomocí boží začněme. A začněme hned uprostřed noci, nemáteli třeba námitek.
 
   

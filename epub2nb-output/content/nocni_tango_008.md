@@ -3,8 +3,6 @@ title: 2\. DÍL Vzhůru na Sibiř
 contentType: prose
 ---
 
-  
-
 David si napustil vodu do vany a uhnízdil se tam a celé tělo mu prostoupila nevýslovná slast, ale jen co s potěšením zvrátil hlavu a pohlédl do stropu, uviděl bobtnající puchýř. Soused nad ním měl vadnej odtok, ale nedalo se s tím nic dělat, protože měl taky psa, co na jedno cvaknutí urve celou ruku, a dělá to k smrti rád.
 
 Ani večeře nebyla zrovna k popukání. Měli kapustu a David s Kryštofem ji nenáviděli, ale David to nesměl dát znát, aby nenarušil Kryštofovu výchovu, a Kryštof zas, s tím svým vyvinutým smyslem pro fér hru, mohl jen dělat, že neví, že David to nesmí dát znát.
@@ -211,8 +209,6 @@ _v hedvábné chvíli večerní
 harfy jak kolmé splavy ční  
 traviči studní studny tráví  
 a modře ze sna křičí pávi),_
-
-  
 
 ale Šebestián ho stále popoháněl a pak David pochopil, že už prošli pod zahradou a jsou teď v domě, totiž pod domem, a zarazil se, ale Šebestián mu vysvětlil, že celý prostor, v němž se nacházejí a do něhož ještě dále vstoupí, je oddělen zvukovou bariérou od vlastního domu a že ta izolace je tak důkladná, že tady můžou klidně skákat, tančit, jančit, zpívat, křičet, a v domě je nikdo ani nezaslechne. A pak už stoupali schodištěm, umístěným v jakémsi širokém, objemném tubuse.
 

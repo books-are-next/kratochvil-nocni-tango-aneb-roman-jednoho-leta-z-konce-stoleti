@@ -5,26 +5,26 @@ contentType: prose
 
 > _OSOBY:_
 
-Šebestián
+> Šebestián
 
-Zlatovláska
+> Zlatovláska
 
-Kryštof
+> Kryštof
 
-Miloš
+> Miloš
 
-David
+> David
 
-Adam
+> Adam
 
-Sára
+> Sára
 
 > _MÍSTO:_
 
-Brno Vysočina
+> Brno Vysočina
 
-Sibiř dálnice D1
+> Sibiř dálnice D1
 
 > _ČAS:_
 
-začátek a konec léta 1998
+> začátek a konec léta 1998

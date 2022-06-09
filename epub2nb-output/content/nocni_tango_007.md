@@ -3,8 +3,6 @@ title: "1\\. DÍL V\_Brně na Kolišti"
 contentType: prose
 ---
 
-  
-
 V Brně na Kolišti vybuchla bomba. V kuchyni u Zlatovlásky to bylo slyšet jako mlasknutí ježka hltajícího rumovou pralinku. (Správně, zapamatujme si to: mlasknutí ježka hltajícího rumovou pralinku.) Ale protože v kuchyni opravdu byl ježek (jmenoval se Miloš), nikdo tomu nevěnoval pozornost. Jenom Zlatovláska řekla (pětiletému) Kryštofovi, aby už Miloše konečně odnesl na zahrádku.
 
 Uvážíme to, odpověděl.

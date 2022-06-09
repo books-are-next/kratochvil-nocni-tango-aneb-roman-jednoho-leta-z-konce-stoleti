@@ -31,10 +31,14 @@ U mě v pokoji hrajeme s Milošem celé noci šachové partie. S potěšení
 
 A pak už taky obvykle posnídáme. Miloš má na mém stole svůj roztomilý miniaturní jídelní stoleček a u něj s nezlomným apetitem spořádá vše, co mu nabídnu. A pokud je to vajíčko natvrdo, svižně ho naporcuje svou tureckou šavlí. A jestli je tu navíc ještě plátek grepu, nasadí si svou motoristickou kuklu, aby mu ovocná šťáva nestříkala do očí. A jen výjimečně se stane, že se nějakým pudingem zaplácá tak neskutečně, že pak dlouho stojí před zrcadlem a oždibuje se mlsnými prsty a recituje Rimbauda:
 
+  
+
 _Fuj, naše vyschlé sliny třísní  
 jak deštík tvrz  
 a infikují dosud plísní  
 tvůj oblý prs._
+
+  
 
 Ale to se já už holím a spěchám za svými povinnostmi. Zívající hobit mě ještě doprovází ke dveřím, jako kdyby on byl má zlatá ženuška, ale sotva za mnou zapadnou, už se drápe na knihovnu do svého polního lůžka a před spaním si ještě cvakne z placaté lahvičky velikosti kapří šupiny.
 

@@ -511,7 +511,11 @@ Myslím, že je to dobrý, říká spokojený scenárista, ale stejně si to je�
 
 Herec, co hraje policajta, vylézá z řeky, mokrý a ověšený zeleným a hnědým slizem, prská a obličej si otírá ručníkem, který mu rychle někdo podá. Ale zpátky už chválabohu nebude muset, i když se scéna ještě třikrát zopakuje. Teď už ho postupně vystřídají ti další tři, ti v ještě suchých uniformách.
 
+  
+
 Teprve v tomhle seriálu mám, Adame, pocit, že opravdu hraju sám sebe a že se do toho můžu naplno vložit! A taky jim ještě povím, že ten nápad s děckem jako mým protihráčem, to je terno! Jakýsi běženec, jehož původ nikdo nezná, zázračné dítě s obrovským nábojem senzibila, sedí teď někde v tomhle městě a vidí mě tím svým vnitřním zrakem jako skrytou kamerou! Kamkoliv se přemístím, ten kluk o mně ví, není kam uhnout, celý svět je najednou malý! A tak nemám jinou možnost, když nechcu, aby mě dostali. Nemám jinou možnost a posílám za ním tři zabijáky, pročesávají město, hledají ho, zvláštní sorta, děsivě mně oddaní, nebojí se ničeho, ani vlastní smrti, a navíc mají něco, co najdeš jenom tam na Kavkaze, totiž schopnost vyslídit senzibila a zneškodnit ho.
+
+  
 
 Dneska bych ještě chtěl udělat kousek útěku těch tří zabijáků, vysvětluje scenárista. Tady zezadu se vyšplhají po traverzách a skobách až na viadukt a pak by se mi, chlapci, líbilo, kdyby aspoň někdo z vás hereckých primadon projevil tolik nesmlouvavé odvahy a před přímým zrakem kamery naskočil na projíždějící vlak.
 

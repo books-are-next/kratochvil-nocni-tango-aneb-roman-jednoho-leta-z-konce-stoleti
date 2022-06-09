@@ -367,10 +367,14 @@ Kryštof s Milošem sestoupili zpátky na Masarykovu, ale tam se to mezitím pr
 
 Ale než se vzedmula další vlna skandování, pan profesor si dalším gestem vyprosil ještě strpení a zvedl mikrofon ze stojanu a začal zpívat:
 
+  
+
 _Když mi dáš pac  
 To naše paci paci  
 Všechno změní  
 Po dlouhé noci přijde rozednění…_
+
+  
 
 A Kryštof s Milošem, kteří se tam motali lidem pod nohama v neustálém nebezpečí ušlapání, občas přece jenom v nějakém průzoru něco zahlédli, ale to hlavně díky tomu, že zpívající pan profesor lehounce levitoval, vznášel se při zpěvu čím dál výš nad podiem a nad hlavami, až jednu chvíli vyletěl jak saranče hodně vysoko a brnkl o morový sloup.
 

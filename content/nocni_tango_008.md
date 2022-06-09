@@ -205,10 +205,14 @@ Však k tomu moc nechybělo, usmál se Šebestián a ukázal na stěny, jež b
 
 A šli tedy širokou chodbou, kam už nikdo, jak přiznal Šebestián, nevstoupil drahně let, a světlo zde bylo možná už trochu povadlé, ale vzduch stále svěží, ani závan sklepní či dokonce hrobové zatuchlosti. A občas se na zdi objevil nějaký překvapivý výtvarný motiv, takže David byl v pokušení zastavit se a prohlédnout si ho (přísahal bych na duši své nebožky matky, vykřikl David přidušeně, že tady někdo ilustroval Skácelova čtyřverší! ale ta chodba je přece stará jak Metuzalém, jak se tady ten motiv vzal? ale tohle je jasně basreliéf k básni:
 
+  
+
 _v hedvábné chvíli večerní  
 harfy jak kolmé splavy ční  
 traviči studní studny tráví  
 a modře ze sna křičí pávi),_
+
+  
 
 ale Šebestián ho stále popoháněl a pak David pochopil, že už prošli pod zahradou a jsou teď v domě, totiž pod domem, a zarazil se, ale Šebestián mu vysvětlil, že celý prostor, v němž se nacházejí a do něhož ještě dále vstoupí, je oddělen zvukovou bariérou od vlastního domu a že ta izolace je tak důkladná, že tady můžou klidně skákat, tančit, jančit, zpívat, křičet, a v domě je nikdo ani nezaslechne. A pak už stoupali schodištěm, umístěným v jakémsi širokém, objemném tubuse.
 
@@ -464,10 +468,14 @@ A což, taky jste prověřili jeho totožnost?
 
 Jak jinak. Matička Rus je naprcaná bělice a má břicho plné lžicarů. Před měsícem, pokračoval kuchař, v pátek 17. července, byly konečně v Petrohradě slavnostně pohřbeny ostatky zavražděného cara. A tak nastal čas carevičů…
 
+  
+
 __Něnastnyj děň potuch, něnastnoj noči mgla  
 Po něbu stěletsa oděždoju svincovoj  
 Kak prividěnije, za roščeju sosnovoj  
 Luna tumanaja vzašla…__
+
+  
 
 Adam se zahleděl z okýnka letadla. Ale neviděl nic než nadupané sloje mraků, které mu připomněly hromady polštářů navršené po celém lůžku v ložnici jeho matky Laury, když ji tam jednou, sedmiletý, zastihl ve velice choulostivé situaci. Bože můj, zaúpěl Adam, jak ještě dlouho za hrobem mě bude tahle raná vzpomínka z dětství týrat?!
 

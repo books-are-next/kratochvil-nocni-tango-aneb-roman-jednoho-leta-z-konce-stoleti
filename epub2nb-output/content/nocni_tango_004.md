@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Noční tango aneb Román jednoho léta z konce století](https://search.mlp.cz/cz/titul/nocni-tango-aneb-roman-jednoho-leta-z-konce-stoleti/2520641/#book-content) tak, jak bylo vydáno nakladatelstvím Petrov v Brně v roce 1999. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,6 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 21. 9. 2020.
 
-  
+</section>
+
+<section>
 
 ![image002.jpg](./resources/image002_fmt.png)
+
+</section>

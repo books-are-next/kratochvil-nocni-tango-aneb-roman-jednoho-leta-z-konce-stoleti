@@ -3,6 +3,8 @@ title: 4\. DÍL Noční tango
 contentType: prose
 ---
 
+<section>
+
 Když Šebestián dostal nápad svolat rodinnou poradu, myslel tím samozřejmě všechny obyvatele domu, tedy i Bua Bua. A tak Buovi Buovi okamžitě zavolal do jeho kanceláře na přehradě a pak šel ještě otevřít okno, že hvízdne na Miloše a Zlatovlásku. Ale nehvízdl: nad korunami stromů se zrovna v té chvíli objevili dva jezdci jak zátky vystřelené ze šampaňského a Šebestiánovi došlo, že Miloš se Zlatovláskou právě teď přeskakují na svých ocelových ořích vysoký plot, který odděloval zahradu od okolního světa. A zavřel zas okno.
 
 David je, jak víte, kamionem v Itálii a Miloš se Zlatovláskou kdesi na projížďce, ale protože je tu nebezpečí z prodlení, nemůžem už na nikoho čekat. Adam byl pravděpodobně unesen, a proto jsem vás svolal.
@@ -21,7 +23,9 @@ A mám tomu snad rozumět tak, čílila se Sára, že Adamovi se už s námi n
 
 Ale dřív než stačil Bua Bua odpovědět, ozval se dědeček Kondor. Seděl v kolečkovém křesle u okna a velkým hýkáním se teď snažil upozornit všechny na to, co se děje venku. Obrátili se tím směrem a uviděli, jak do prudkého svahu, na jehož vrcholku stál jejich dům, šplhá na kole listonoška, teď na konci léta nejspíš studentka brigádnice. A všechny v tu chvíli napadlo totéž. I vyhrnuli se na práh domu a hleděli na dívčinu, jak zabírá do pedálů a šplhá do strmého kopce, až jí v tom úsilí povylezla špička růžového jazýčku, och, té krásy deroucích se jazýčků! napadlo Kryštofa, ale trochu předčasně, protože ve svých pěti letech nemohl mít ještě ze studentčina jazýčku ten pojem. A když konečně dojela až nahoru a slezla z kola a sáhla do brašny, přece jen trochu zaskočena tím, s jakým zájmem je tady očekávána, stalo se, s čím tady všichni už počítali: vylovila podlouhlou obálku a podala nejblíž stojícímu Buovi Buovi, zatímco jí Šebestián podpisoval převzetí. A pak se už hlavy všech sklonily nad telegramem.
 
-  
+</section>
+
+<section>
 
 Nejvyšší čas k odeslání telegramu, připomenul kuchař.
 
@@ -35,7 +39,9 @@ Rozumím, řekl kuchař a zapsal si: VSECHNY POZDRAVUJI VRATIM SE BRZY DEDECEK 
 
 Mig společnosti _Mjednyj vsadnik_ letěl v té chvíli nad východním Slovenskem a právě se chystal překročit hranice Zakarpatské Ukrajiny.
 
-  
+</section>
+
+<section>
 
 Miloš se Zlatovláskou se jako dvě zátky šampaňského, jako dva obláčky aerosolu přenesli přes vysoký plot zahrady a dopadli na cestu sbíhající ke Královu Poli. A pak už s dědečkovým domem za zády uháněli přes panoramatický nadjezd nad údolím a dál ke královopolskému nádraží a dál k Semilassu a v podstatě tak kopírovali trasu autobusu čtyřiačtyřicítky, který spojuje sídliště Lesná s Královým Polem a běží pak Palackého třídou a přes Slovanské náměstí a po Skácelově ulici a přes Žabovřesky, jichž se jen letmo dotkne při vyústění Kroftovy ulice, a pokračuje směrem do Pisárek a zezadu kolem areálu brněnského výstaviště až na konečnou, jíž je Mendlovo náměstí. Zlatovláska se sice jak štěnice držela ocelové koňské šíje, ale přitom jejím převládajícím pocitem nebyla úzkost, ale slast. Kdyby se jí ovšem teď někdo přeptal na původ té slasti, pokusila by se zajisté najít nějaké vysvětlení, ale nikdy by nepřipustila, že ten slastný zážitek může mít taky něco společného se závozníkem Milošem.
 
@@ -43,7 +49,9 @@ Na Mendláku zastavil Miloš před stánkem s pečivem a koupil tamější spe
 
 Jen jezte, čeká nás ještě dlouhá cesta, holčičko.
 
-  
+</section>
+
+<section>
 
 Takhle přece nevypadá telegram únosců, upozornil zas Bua Bua. Přece by nás Adamovým jménem neujišťovali, že nás všechny pozdravuje a brzo se zas vrátí, nýbrž dožadovali by se peněz v malých a neoznačených bankovkách. Aspoň tak já tomu rozumím.
 
@@ -55,7 +63,9 @@ Ale to jsem snad už říkal, s Milošem na vyjížďce.
 
 Obávám se, že to není vyjížďka, poznamenal Kryštof, obávám se, že se roztrhl pytel s únosama. Ale všichni považovali jeho poznámku za nemístnou. Neříká se „únosama“, ale „únosy“, opravila ho Sára. Byl ještě příliš mlád, aby směl ironizovat počínání dospělých.
 
-  
+</section>
+
+<section>
 
 Den se posunul do pozdního odpoledne, a protože _Mjednyj vsadnik_ letěl stále dál na východ, letěl teď vlastně do tmy (slunce běželo opačným směrem a táhlo za sebou obrovský černý stín jak vozataj svůj vůz), až nakonec kuchař natáhl ruku a rozsvítil lampičku nad Adamovou hlavou: Přeju krásný večer, pane Obkročníku.
 
@@ -71,7 +81,9 @@ Opravdu ne, řekl Adam, jsem pořád ještě plničký vašich božských pelme�
 
 Adam se díval z okýnka a stále víc si uvědomoval, že už je tam tma jak v ranci a že tím rancem je obrovská ruská říše a že se do toho rance derou stále hlouběji a hlouběji.
 
-  
+</section>
+
+<section>
 
 Kam to vlastně uháníme? zeptala se Zlatovláska, maličko znepokojená tím, že se překotně vzdalovali městu a den už vstupoval do pozdního odpoledne.
 
@@ -115,7 +127,9 @@ A Adama by taky potěšilo, že jeho rytíři budou konečně nějak užitečn�
 
 Bua Bua rozhodil rukama. Já vás varoval…
 
-  
+</section>
+
+<section>
 
 Ten obrovský ranec tmy tam dole je Rusko, svatá Rus, řekl si Adam, tisíckrát prokletá, krvavé hemeroidy světa, ďáblovy zvratky, obrovská koňská zdechlina, obsypaná smaragdovými mouchami, a přesto stále svatá! Nebyl tady od roku 1918, od tažení po Sibiřské magistrále, a teď se vracel! A co se tu mezitím odehrálo! Nepřetržitý sled vraždění, země v rukou lůzy, jež se stále navzájem rdousila, Kalvárie bez naděje na vzkříšení. O něčem věděl, protože mu to vyprávěli Šebestián, Kryštof, David i Sára, něco si uměl docela představit a o něčem se mu dokonce zdálo. Ale tu příležitost znova se tam podívat cítil teď překvapivě jako štěstí, neboť ho až teď napadlo cosi, o čem by tenkrát, před osmdesáti roky, samozřejmě vůbec neuvažoval, a sice, že ta legionářská léta byla snad z těch nejkrásnějších v jeho životě a osvobození malého careviče a jeho sestry, to bylo snad přímo umělecké dílo, a možná to nejlepší, co kdy kvitlo z jeho rukou.
 
@@ -127,7 +141,9 @@ Ale kuchař zavčas zasáhl.
 
 Najednou totiž sundal sobě a Adamovi kyslíkovou masku, podíval se na hodinky a řekl omluvně: Pardon, teď si uvědomuju, že jsem se spletl. Přes Kavkaz poletíme až tak asi za čtyřicet minut. Tohle nebyl Kavkaz, ale docela fádní rovina někde za Dněprem. A zbytečně jsme šňupali kyslík, letěli jsme totiž docela při zemi.
 
-  
+</section>
+
+<section>
 
 Ale netrvalo dlouho, slunce zapadlo a Miloš se Zlatovláskou už klusali docela potmě po zvolna stoupajícím svahu Vysočiny. Ale na jejich ocelové koníčky byl stoprocentní spoleh, protože byli vybaveni netopýřími radary, a Milošův udělal občas kolečko kolem Zlatovlásčina, ale i Zlatovlásčin ržal touhou a milostně se natřásal, ale Zlatovláska si přikázala nebrat to na vědomí.
 
@@ -137,7 +153,9 @@ Jen se opovažte, Miloši! lekla se Zlatovláska. I kdybyste dělal Buovi Buovi
 
 Aniž si to jezdci uvědomovali, přibližovali se rychle k místům, kde měl původně stát obří hypermarket, o němž se v reklamních prospektech mluvilo jako o Lady Dianě a kolem něhož měl vzniknout nový typ sídliště a společenského a kulturního centra. Jen brněnský sociolog a ekolog Keller divoce bušil na poplach, ale Klaus ho na jednom předvolebním mítinku nazval rudou bábou kořenářkou. Kvůli Lady Dianě vykáceli obrovský kus lesa a zplanýrovali pěkný kus Vysočiny, ale nakonec tam zůstala jen tahle spoušť, protože zahraniční kapitál na poslední chvíli spěšně ucukl.
 
-  
+</section>
+
+<section>
 
 Po dlouhém uvažování se nakonec rozhodli pro dědečka Kondora, když si to tak moc přál. To, že nemohl chodit, mu nijak nebránilo vládnout docela dobře rukama a v krunýři svatého Václava to byla celkem jednoduchá záležitost, vlastně jen dvě páky pro pohyb dopředu a dozadu, doleva a doprava. Kondor to přijal jako poslední velkou šanci svého života a to bývá začasto silná motivace. A možná dokonce tak silná, že mu umožní osvědčit se i tam, kde by ostatní selhali. A všichni tomu takhle věřili, kromě Bua Bua, jenž nemínil couvnout ze svého negativistického stanoviska. Ale to mu nebránilo, aby byl mezi publikem, co přihlíželo, jak dědečka Kondora vyzvedli na hřbet koně a opatrně nasoukali do zad svatého Václava.
 
@@ -145,7 +163,9 @@ Po dlouhém uvažování se nakonec rozhodli pro dědečka Kondora, když si to 
 
 Jak čiperní lidičkové, řekl Kryštof a hleděl za nimi, až si mohl oči vykoukat.
 
-  
+</section>
+
+<section>
 
 Mezitím už dávno přeletěli nad Kavkazem a začíná se rozednívat a země pod letadlem je od obzoru k obzoru potažena jemnou bílou srstí, jež je teď při východu slunce lehounce narůžovělá. Tož tak, Sibiř, přátelé. A kuchař už servíruje snídani (pirožky plněné rybím masem a černý čaj) a hned potom rozkládá na stolku před Adamem mapu a ukazuje mu, kde se teď nacházejí a kde je Jekatěrinburg (za Sovětů Sverdlovsk) a kde na ně čekají slavnostně prostřené stoly, a ukazuje mu, kde se to před osmdesáti lety přihodilo a kde Adam (kuchař se ovšem, jak víme, domnívá, že Adamův otec) provedl tu fantastickou operaci na záchranu careviče a jeho sestry Marie.
 
@@ -161,19 +181,25 @@ A kuchař Adamovi připálil a pokouřili spolu.
 
 _Mjednyj vsadnik_ letící nad Sibiří vrhal teď na sněhovou pláň veliký stín podobný patriaršímu kříži.
 
-  
+</section>
+
+<section>
 
 Obloha se nečekaně vyjasnila a hvězdy, které teď plály Milošovi a Zlatovlásce nad hlavou, vedly jejich koně stále výš Vysočinou. Až k Lady Dianě.
 
 Velké zplanýrované prostranství, kde ještě nedávno rostla hustá a vysoká smrčina, ale kde teď zůstaly jen rozblácené výkopy, ale také zbytky jakéhosi bednění a rozkradených stavebnin, rozbitý terén a rozrytá pustina. Ale protože kamsi do centra ještě nedorazila informace, že tady žádný hypermarket a žádné společenské středisko nepostavili, poslali sem z Prahy velké billboardy s Klausem a opozičně smluvním Zemanem a ti, co je přivezli, se ani ničemu nepodivili (nebyli placeni za to, aby se divili) a vztyčili klausovské a zemanovské billboardy kolem té prázdné plochy, kolem té zpustošené pustiny. A Miloš se Zlatovláskou klusem vjíždějí na prostranství, kde měla stát Lady Diana, a Miloš okamžitě pokračuje ve svých neomalených námluvách.
 
-  
+</section>
+
+<section>
 
 A tak v závěru svého života dostal dědeček Kondor příležitost cítit se znova a ještě naposledy kondorem. Seděl v hrudníku svatého Václava, lehounce se přidržoval pák a opravdu se cítil jak _Sarcorhamphus papa_, kondor královský, zvaný též „supem Nového světa“. A svatováclavskými průzory viděl jen úzký pruh cesty před sebou, a jestliže jsme řekli, že se pák jen lehounce přidržoval, chtěli jsme tím zajisté také říct, že vůbec neřídil, nešoféroval, ale páky se v jeho rukách samy pohybovaly, tak je to, bylo přepnuto na automatiku. Však taky když poslali vojsko, aby vyrvalo Adama jeho únoscům, nikdo přece nepředpokládal, že by dědeček Kondor věděl kudy, a naopak počítali s tím, že kůň knížete Václava se sám přilepí na Adamovu stopu, poběží za svým pánem a demiurgem a vojsko potáhne s sebou. A dědeček Kondor měl posloužit jen jako lidský faktor, ta hřejivá výplň ocelových výdutí. Prostě Šebestián, Kryštof, Sára a nakonec i ten Bua Bua si představovali, že může být docela roztomilé, když svatováclavské vojsko Adama vysvobodí a hned potom se rozevře krunýř svatého Václava a jak z kukačkových hodin vyletí Kondor a vyřídí pozdravy od Šebestiána, Kryštofa, Sáry a nakonec i od Bua Bua.
 
 Šebestián, Kryštof, Sára a nakonec i ten Bua Bua stáli na balkoně Adamova domu a mávali vzdalujícímu se jehelníčku svatováclavských korouhví a taky dvěma opěšalým rytířům, kteří se s korouhvemi pod paží pokoušeli své vojsko doběhnout.
 
-  
+</section>
+
+<section>
 
 Když máte zaráz na starosti tři proudy vyprávění (let _Mjednovo vsadniku_ do Jekatěrinburgu, jízdu Miloše a Zlatovlásky Vysočinou a tažení svatováclavského vojska), může se vám přihodit, že něco neuhlídáte. A tak se mi naneštěstí vysmekl avion letící Sibiří a vysmekl se tak hloupě, že nabral kurz do země. Vypravěč se omlouvá a tvář si černým šlojířem halí.
 
@@ -181,7 +207,9 @@ Co je s pilotem? polekal se Adam. Přece ho tam nenecháme! Ale kuchař Adamem 
 
 Nad hlavou se jim přehnala smršť hořící cupaniny ze sedadel letadla. A oheň vyšlehl ve strupatém sloupu až k obloze a tam ji pojal za choť. A jednatřicet kilometrů odtud se jeden z posledních exemplářů východosibiřského tygra, nádherný tvor, snoubící krutost s krásou, rozmrzele ohlédl po té nebeské svatbě. A pak se po malém zaváhání vydal směrem k hořícímu vraku.
 
-  
+</section>
+
+<section>
 
 Koně se Zlatovláskou a Milošem tančí v Lady Dianě (obklopeni ze všech stran megabillboardy) a Miloš je čím dál neurvalejší. Zlatovláska se snaží soustředit. Ví, že kůň by měl reagovat na stisky jejích kolen a údery jejích pat, ale nereaguje. A až teprve teď Zlatovlásce dochází, že její kůň se chová jak očarovaný. Tak se ovšem choval už i na zahradě, a ona nedbala a teď na to doplácí. A neřekl Adam něco v tom smyslu, že tihle koně, zbaveni svých jezdců, mohou být taky velice nebezpeční? Nevaroval tak náhodou před jejich zneužitím? Zlatovláska má pocit, že billboardy obstupující Lady Dianu se hrozivě sevřely. A že co nevidět se začne dít cosi děsivého.
 
@@ -193,13 +221,17 @@ Miloš ví svoje a povolí uzdu své bezuzdnosti a hned zas škubne jejími op
 
 Tančí tango Ramona, v časech Adama Obkročníka tak oblíbené.
 
-  
+</section>
+
+<section>
 
 Svatováclavské vojsko seběhlo z Adamova vrchu (říkejme mu tak) do Králova Pole. Ale tady nevzbudilo (po nedávné demonstraci squatterů, manifestaci transvestitů, lampionovém průvodě feministek a karnevalech gayů a lesbiček a bojových pochodech reketýrů) vůbec žádnou pozornost, takže vojsko táhlo stále dál až na dálnici D1. A tady ovšem chvilku trvalo, než se mu přizpůsobila dálniční frekvence, ale pak už je taky nikdo nebral na vědomí.
 
 Ale jak jsme si okamžitě stačili všimnout, něco tady nehraje, svatováclavské vojsko totiž neběží na východ, za Adamem Obkročníkem, ale na západ. A v té souvislosti nás napadá myšlenečka, jestli si to fešáci nepopletli? Vždyť očividně netáhnou na Sibiř, ale na Prahu. Ale pak se nám okamžitě rozsvítilo: jsou to přece blaničtí rytíři a tak jejich povinností není zachraňovat Adama z rukou jeho únosců, na nic takového nejsou tak říkajíc naprogramováni. A co tedy? Copak se k nám teď valí sovětské tanky nebo nacistické motostřelecké jednotky? Copak snad leží na naší zemi příkrov hnědého anebo rudého moru? Takže co, fešáci? Přece jenom jste si to popletli?
 
-  
+</section>
+
+<section>
 
 Adam s kuchařem jdou a jdou nedohlednou sibiřskou pustinou, lesostep, tundra, tajga, nemají tušení, kam vlastně táhnou, kterým směrem je Jekatěrinburg, ztratili tu nejzákladnější orientaci, vždyť jediný přístroj, který mají s sebou, je těžká armádní pistole, kterou kuchař vyfasoval, aby mohl v nebezpečných situacích ochránit Adama, ale s kterou stejně neumí zacházet, přestože ho to učili. Kuchař má totiž odpor ke zbraním a zastřelit anebo třeba i jen postřelit člověka nebo zvíře je v děsivém rozporu s jeho povahou. Je to člověk navýsost citlivý, navýsost mírný až něžný, kapry, kuřata, kachny, husy, krocany, krůty mu v kuchyni vždycky podávali už naporcované a teprve potom začínala jeho kuchařská práce.
 
@@ -215,19 +247,25 @@ Kuchař tam chvíli strnule stojí a pak jde k Adamovi, čichne mu k podpaž�
 
 Jsem Michail Ivanovič Pozymarjov, poslední kuchař cara Mikuláše II., zastřelený v Carskom Sele hned po deportaci carské rodiny. Jsme téže entity – vy i já. Takže předpokládám, že jste přímo Adam Obkročník, zachránce careviče Alexeje.
 
-  
+</section>
+
+<section>
 
 Viděli jste někdy tančit lipicány na melodie vídeňských valčíků? Je to nepochybně nádherná a okázalá podívaná, ten nejkrásnější dar zvířat člověku, ale všimli jste si, že je v tom tanci vždycky něco nápadně mechanického? Zatímco když tančili oceloví koně s Milošem a Zlatovláskou, bylo v tom zas cosi nápadně živého. A je to snad tím rozdílem mezi valčíkem a tangem? Anebo tím, že lipicáni, ozdoba císařského dvora, byli záměrně drezurováni jako mechanické loutky, proměněni v kouzelné marionety, kdežto Adamovy skutečné marionety měly naopak ctižádost oživnout?
 
 Koně s Milošem a Zlatovláskou tančí Ramonu, to dojemné tango z časů našich dědů, a Miloš stojí v sedle a lehounce se pohupuje a jeho kůň krouží kolem Zlatovlásčina a oba tančící koně se jak Země s Měsícem pohybují zároveň po veliké elipse uvnitř vyprázdněného prostoru obstoupeného billboardy. Celá Lady Diana se proměnila v obrovský taneční parket. A tak nechme je tam ještě chvíli tančit, nechme je kroužit v tom už opravdu závěrečném tanečním finále, v posledním Milošově tangu, v té přeludné iluzi, jež se už za chvíli jediným škubnutím rozhrne.
 
-  
+</section>
+
+<section>
 
 Svatováclavské vojsko se valilo po dálnici D1 na Prahu a bylo sledováno lhostejnými zraky pasažérů expresních autobusů a nanejvýš se občas nějaké děcko jak čertík nasupilo a přes sklo vyplázlo na patrona země české jazyk. Kondor to pohoršeně sledoval. Ještě docela nedávno bylo nepředstavitelné, že by se všechno tak rychle propadlo do tak děsivé netečnosti. Pasažéry expresních linek už nedokázalo nic dojmout.
 
 A Kondor si na okamžik lehce zdříml, jak se mu to už v jeho věku každou chvíli stávalo, ale řídicí páky se v jeho rukách dál samy pohybovaly a Kondorovi se zdálo, že hraje kuželky v jundrovské nábřežní hospůdce a během kratičkého spánku se mu zdála nekonečně dlouhá a hlučná partie kuželek, která uváděla v zuřivost rybáře na břehu Svratky.
 
-  
+</section>
+
+<section>
 
 Ještě před západem slunka překročili kuchař s Adamem hranici oddělující tajgu od tundry a z toho se dalo bezpečně usoudit, že jdou ze severu na jih, ale ta informace jim nebyla k ničemu, když neměli nejmenší tušení, v které části Sibiře se zřítil _Mjednyj vsadnik_. Nicméně večer toho prvého dne se utábořili na kraji smrkového lesa, celou noc hlídáni ostrými psy (vlčáky) Adamova a kuchařova záhrobního pachu.
 
@@ -235,7 +273,9 @@ Ještě před východem slunka probudil kuchař Adama a předtím, než se vypr
 
 Vždyť já vím, přerušil ho Adam a kuchař mu pomohl na nohy a, hná­ni strašlivým pocitem odpovědnosti, začali znovu zuřivě bloudit Sibiří.
 
-  
+</section>
+
+<section>
 
 Miloš stále ještě stojí v sedle tančícího koně a dál krouží kolem Zlatovlásky, když si náhle spustí kalhoty. Zlatovláska po něm s odporem plivne, ale Miloš se tomu jen směje a stále víc se rozhoupává, připraven každou chvíli skočit. Je veskrze zkažený a prolezlý na prst tlustými červy hanebných úmyslů a bezcitné hvězdy a otrlý měsíc osvětlují scénu, odehrávající se pořád dál ve zpustlé Lady Dianě, obstoupené obřími billboardy.
 
@@ -247,13 +287,17 @@ Teď, když se Miloš sám přišpendlil doprostřed obřího billboardu, spadlo
 
 Sbohem, Miloši, zamávala jeho bílému zadku, a polepšete se, človíčku!
 
-  
+</section>
+
+<section>
 
 Dědeček Kondor otevřel oči a uviděl průzorem, že jsou stále ještě na D1 a uhánějí dál ku Praze. Něco tady pohříchu nehrálo, ale nemínil si tím teď lámat hlavu. Blaničtí rytíři přece vždycky sami vědí, kde je jich nejvíc zapotřebí. A znova se propadl do svého kuželkového spánku, do jundrovské hospůdky na nábřeží Svratky.
 
 Nádvoří Pražského hradu se zaplnilo svatováclavským vojskem. Nepochybně jsou to oni, pane prezidente, řekl poradce Jiří Pehe, aniž se pohnul od okna. No nic, uvážil po chvíli prezident, budeme muset napojit koně a pohostit jezdce. A šel také k oknu a byl uvítán šťastným zaržáním.
 
-  
+</section>
+
+<section>
 
 Vylezl jsem z nádražního podchodu a chvíli tam postál, ještě celý rozvibrovaný z toho setkání s Mínótaurem, a pak jsem sedl na tramvaj a rozjel se na Mendlák. Za Davidem!
 
@@ -285,7 +329,9 @@ Cože, zasmál se, ty se teď živíš jako senzibil?
 
 Kdepak, Davide, zavrtěl jsem smutně hlavou, je to bohužel mnohem horší. Já totiž v tvém bytě žiju.
 
-  
+</section>
+
+<section>
 
 Neumíš si představit, jak je to zvláštní, setkat se s tím bytem ve skutečnosti, řekl jsem a dále se rozhlížel a začal jsem se dostávat do ráže. Víš, Davide, v tom snu jsem o dost mladší a neučím na fakultě, ale na gymnáziu. Zlatovláska je tam taky mou ženou, ale není mezi náma zas tak nápadný věkový rozdíl. A bydlí s námi i můj syn Kryštof, jenže v tom snu mu není jednačtyřicet jako ve skutečnosti, nýbrž jenom pět roků. A taky tam žijeme v jedný domácnosti s ježkem, s takovou potvorou bodlinatou, a ta nejraději spává tady, promiň – a otevřel jsem dveře do kuchyňky a ukázal do kouta pod štokrdle.
 
@@ -307,7 +353,9 @@ Jo, to se povedlo (souhlasím a cítím, jak se začínám proti své vůli roz
 
 Klid, klid, Šebestiáne, neblázni, nic se neděje, uklidňuje mě David, vždyť přece mluvíš jen o svých snech! A teď pojď, ukážu ti, co jsem si přinesl z blešáku. Mám to na balkoně. A bere mě kolem ramen a zvedá ze židle.
 
-  
+</section>
+
+<section>
 
 Pohnul jsem se bez zájmu, ale byl jsem si vědom toho, že přece kvůli tomu jsem původně přišel: podívat se, co si včera přinesl z blešáku na Římském náměstí. A tak jsme šli do vedlejšího pokoje a tudy na balkon.
 
@@ -319,7 +367,9 @@ A to se už Davidovi podařilo uvolnit všechny provázky a uzlíky a jediný
 
 A vykřikl jsem tak, že i dělníci od hlučného bagru a sbíječky pustili všechno z rukou, vyplivli cigarety a dívali se nahoru, na balkon.
 
-  
+</section>
+
+<section>
 
 Už musíme jít, řekl David, a přestože jsem neměl tušení kam, nedokázal jsem se vzepřít. Teď byl zas David v ráži a taky mě hned napadlo, že když jsem mu vyprávěl své sny, tak po celou tu dobu údiv jen hrál.
 
@@ -329,7 +379,9 @@ Tati, zlobil se Kryštof, proč to dělají? Řekni jim, prosím tě, ať už to
 
 Kryštof byl přesvědčený o tom, že vládnu vším, tak jako dítě věří, že jeho otec má nesmírnou moc a může kdykoliv a kdekoliv zasáhnout. Sevřelo se mi srdce a stáhl se mi žaludek, kdykoliv jsem se na svého syna jen podíval: mohutný chlap s neohrabanými pohyby a zarostlý několikadenním strništěm, ale v obličeji mi tak děsivě podobný.
 
-  
+</section>
+
+<section>
 
 A byl jsem zas zpátky na Mendláku, náměstíčku propadlém dopravnímu chaosu, kde se lidi motali ve velkém kolejišti tramvají a v přebíhajících tlupách křížili dráhy autobusů anebo neklidně bloncali po refýžích.
 
@@ -359,7 +411,9 @@ Ale no, no (a cizinec zamlaskal), tebe si pamatuju nadosmrti, takovej ksicht se 
 
 David se k němu nakloní a něco mu tiše říká a pak vezme toho člověka pod paží a rychle se s ním protlačí kamsi mimo dohled, na druhý konec tramvaje. A za chvíli se vrací: Tihle lidi jsou jak sliz. Když nedáš bacha, tak se nalepí.
 
-  
+</section>
+
+<section>
 
 Vystoupili jsme na konečné a napřed jsme šli v houfu, co spěchal na přehradu, a Kryštof se držel za námi, ale přitom se stále ohlížel na všechny strany a někdy se i zastavil a na něco se zahleděl, a zatímco se díval Pánu Bohu do oken, kousek jsme popošli a mezi nás a Kryštofa se dostali nějací lidi, takže propadl panice a hned nás s funěním dobíhal.
 
@@ -373,7 +427,9 @@ David se rozhlédl a už nás vedl ke stolu, který se právě uvolňoval. Chv�
 
 V Bois Bois se o nás výtečně postarali. Dostali jsme překvapivě bohatý jídelní lístek a zpytoval jsem Kryštofa, co by si tak dal, ale kýval na všechno jako ta pokladnička na milodary v podobě černouška, co bývala v čase mého dětství v kostele svatého Josefa v Josefské ulici. Spořádal toho nakonec obrovské množství, padalo to do něho jak do těžební jámy (stále mluvím o Kryštofovi), povídali jsme si s Davidem a občas jsem přitom zvedl ruku a přivolal číšníka a objednal svému synovi další chod (klidně shltl škvarkové knedlíky třeba i po sladkém rýžovém nákypu, zmizel v něm i slušný kus skopového a už nám přes hlavy natahoval ruce po telecích medailoncích, které číšník právě přinášel, uvědomoval jsem si, jak ubohá asi bude ústavní strava a že aspoň jednu pořádnou večeři svému synovi sakra dlužím, pohltal tam nakonec všechno, jak jim to tam leželo a běželo, plněného bažanta a dušenou hrušku v červeném víně, ragú z uzených ryb a candáta na smetaně, plněnou cibuli s houbami a bazalkovou majonézu, pomerančový puding s krémem a sibiřské pelmeně, a kuřecí kosti praštěly drceny jeho mohutnými čelistmi, můj Bože, kosti snad jíst nemusíš, Kryštofe!), však jsme tam taky seděli nekonečně dlouho, až do pozdního večera a až na sám práh noci, udělali jsme mastný účet a byli jsme ti nejvytrvalejší hosti, které je nakonec třeba vypudit různými roztomilými manévry, kdy číšníci parádně stepují kolem stolu, aby upoutali pozornost, ale přes paraván našeho zaujatého hovoru (vyprávěl jsem o Mínótaurovi na střeše Hlavního nádraží, ale taky o šukavých průvodech, co táhnou za Zlatovláskou, sotva vytáhnu paty z domu, a znova o snech, skoro nespím, ale kdykoliv zavřu oči, sny se na mě vrhají jak vzteklí psi) a přes Kryštofovu bezuzdnou žranici nepronikl klapot stepujících číšníků, až si konečně bezradný vrchní za našimi zády třikráte přezdvořile odkašlal a vyprovodil nás pak až ke koberci běžícímu od prahu hospůdky do svatostánku noci.
 
-  
+</section>
+
+<section>
 
 Hodně dlouho jsme pak šli po břehu přehradního jezera. I neodolal jsem a zeptal se Davida, kam nás vedeš?
 
@@ -387,7 +443,9 @@ Mezitím noci přibylo a tma ještě zahoustla. Šli jsme teď zvolna, co noha 
 
 Jakmile jsem měl relativní pocit bezpečí, uvědomil jsem si, že takhle jít v noci podél vody má svůj neskonalý půvab. Mlčeli jsme a slyšeli jen Kryštofovo funění, to si nikdy neodpustil, obloha byla zatažená, po hvězdách ani stopy a taky měsíc kdosi zašantročil. A pak si David začal cosi hvízdat, hvízdal si Posledního kovboje, ale stále ještě jsme nevěděli, kam to vůbec jdeme a co nás čeká, jen co David dohvízdá poslední sloku. Ale nedočkali jsme se poslední sloky. David najednou hvízdání přetrhl. Stál, svítil kolem sebe baterkou, okamžik znejistěl, pak se vrátil po břehu zpátky a ukázal na dva stromy a tam byla v křoví ukryta loďka. Pomohli jsme mu ji zatáhnout na vodu, a když jsme do ní lezli, kývala se tak, že David málem upustil baterku, jak zavrávoral.
 
-  
+</section>
+
+<section>
 
 V loďce bylo pouze jedno veslo, ale my, zdá se, nikam nespěchali, a tak David hrábl veslem jednou po pravoboku, podruhé po levoboku a pak zas nechal loďku chvíli jen tak plynout, jenom kormidloval. Představoval jsem si, že se zvolna suneme do středu přehrady, a líbilo by se mi, kdyby i teď dál hvízdal Posledního kovboje, ale mlčel. A když jsem se do toho tísnivého ticha trochu zaposlouchal, uslyšel jsem po chvilce nějaké velice kradmé pohyby asi tak sto metrů od nás, jako by se tam ještě něco dalšího sunulo po hladině. Až pak mi došlo, že je to jen ozvěna našeho vlastního pohybu, protože celá přehrada je v noci veliká rezonanční deska.
 
@@ -397,7 +455,9 @@ A v té chvíli to ve mně vybuchlo. Všechno nashromážděné za celý dneš
 
 Dlouho jsme tam tiše a nehybně seděli uprostřed jezera a uprostřed noci a naslouchali půlnočním zvonům z kníničského kostelíka na dně přehrady (ty padoucnice krásy, ty rakovino rozkoše, ty tasemnice ze střev věčnosti, ty požehnaná dračí setbo) a pak zas David rozsvítil baterku a úplněk světla putoval po černé hladině kolem.
 
-  
+</section>
+
+<section>
 
 Nakonec se Zlatovláska odstěhovala na delší čas k televiznímu scenáristovi, k tomu hubenému mladíkovi s myším culíkem. To, co původně vypadalo jen jako drobná milostná epizoda, se přece jenom protáhlo. A Šebestiánovi i Davidovi zbyla jen hořká chuť na patře.
 
@@ -423,7 +483,9 @@ Taxikář vždycky odveze zákazníka tam, kam chce zákazník, potvrdil Adam.
 
 Tak to jsem zvědavej, kývl kuchař a šel si na zahradu pro svého chrta.
 
-  
+</section>
+
+<section>
 
 Zatímco uháněli v televizním mikrobusu k železničnímu viaduktu a zatímco stáli dlouho na křižovatkách, zasvěcoval scenárista Zlatovlásku do dalších náležitostí svého televizního románu: Slyšíš dobře, Zlato, přestože ve Francii hrál už kuchař v několika krimifilmech a dostal tam dokonce Césara, což je evropský Oscar, teprve já ho obsazuju do role, která mu právem náleží. Kuchař je v pravém slova smyslu naturščik a umí zahrát pouze teroristu nebo kuchaře, ale ty dva pak hraje s takovým potěšením a takovým espritem, že je radost se dívat. A terorismus, Zlato, je zas nejzávažnějším problémem poslední třetiny našeho století, takže už byl nejvyšší čas něco s tím udělat. A ptáš se, proč zrovna televizní seriál? Tak se podívej, Dostojevskij napsal o terorismu poslední třetiny devatenáctého století velký kolportážní román Běsi, a co jiného je televizní seriál než kolportážní román našich dnů? Tak jako se kdysi lidi těšívali na pokračování románu ve svých novinách, tak se dneska zas těší na další díl seriálu v televizi. Ale to ještě není všechno. Vždyť si vem třeba to střetnutí dítěte a teroristického netvora v samém centru mého televizního románu. I to je cosi, co se dotýká žhavého jádra současnosti. Dnes jsou totiž lidi čím dál víc posedlí dětma. Na jedný straně je stále víc znásilňují, przní, mučí a mordují a objevily se celý šiky sadistických pedofilů a vyrostly továrny na dětskou pornografii a přibylo rodičů, co k smrti týrají své děti, ale na druhý straně vidí dnes lidi v dětech jakési přímo mesiáše a obracejí se k nim jako ke spasitelům, přinejmenším jako ke spasitelům filmových příběhů. V pornobyznysu a v hollywoodských snech, Zlato, dneska už ne sexbomby, ale děti jsou ten nejžádanější artikl. Konec století patří terorismu a dětem, takže je dobré spřáhnout v jednom příběhu obojí.
 
@@ -435,7 +497,9 @@ Takže budu smět kuchaře znásilnit, zprznit a utýrat?
 
 To víš, miláčku, přesně tohle se od tebe čeká, ujistila ho Zlatovláska.
 
-  
+</section>
+
+<section>
 
 Mohl bych teda vědět, kam vás mám zavézt?
 
@@ -461,7 +525,9 @@ Tušil jsem to, přiznal Adam.
 
 Taxík projel mezitím Pisárkami a pokračoval směrem na Jundrov, na Komín a na Bystrc.
 
-  
+</section>
+
+<section>
 
 Mezi Zvonařkou a čtvrtí nazvanou výstražně Štýřice stojí kamenný železniční viadukt, na němž už, marná sláva, stáří zanechalo své hnědé jaterní skvrny. Pod viaduktem však dosud běží cesta a dokonce teď i čerstvě značená bicyklistická stezka a hned vedle je frekventovaná silnice a pod dvěma oblouky viaduktu teče řeka Svratka, která je tady ovšem tak mělká, že když sem sebevražedně zabloudí ryba, dře hlasitě břichem o dno, a jen vloni při záplavách šplhala voda po pilířích a nesla, co kde nakradla, a pokud si vzpomínám, tak i nějaký špatně nacpaný strožok čili naprcanú bělicu, jak jsme tomu říkali na vojně. Teď je ovšem voda zas jen při dně a scenárista se otráveně dívá do koryta Svratky. Z televizního mikrobusu vystoupí televizní štáb s televizním vercajkem a líně se rozhlížejí.
 
@@ -475,13 +541,17 @@ To platilo až dosud, až dosud byl kuchař vlk samotář, či chceš-li Šakal 
 
 Tou vysílačkou myslíš Kryštofa?
 
-  
+</section>
+
+<section>
 
 Adam s kuchařem jezdí stále cikcak Brnem, a to už Adamovi došlo, co se po něm chce. Kuchařovi totiž celá ta jízda slouží jen jako ušní zpověď, pojízdná zpovědnice (a to je ta cesta do hlubin jeho zasraný duše). Klečí vzadu na sedadle vedle svého arabského chrta a naklání se přes opěradlo vedle řidiče a do Adamova ouška vypráví svůj životní příběh:
 
 Můj dědeček byl bělogvardějec a padl mlád. Ale jeho smrt nebyla marná: zkokotila naše osudy na další tři generace. A dědeček se tak stal nesmrtelným, protože žil dál v našich kádrových materiálech. Otec skončil na čísi udání v lágru na Soloveckých ostrovech a matka dožila svůj život v blázinci. Za mnou pak poslali svýho člověka a ten mi řekl: Máš sice po dědečkovi a po rodičích kádrovej škraloup, ale lidi se škraloupama, když se vyvedou, jsou z nejnadanějších. Dostaneš příležitost to prokázat. A napřed jsem ve fabrice donášel na svý mistry, pak koho jsem potkal, toho jim udal, až mě nakonec vzali mezi sebe, protože jim došlo, že kdyby můj otec vstal z mrtvých, znova jim ho prásknu. Oženili mě s partajnicí a otevřeli mi svůj svět. Moje manželka byla druhá nejmocnější ženská v gubernii, sám Leonid Iljič ji občas obskočil a já se tak stal kádrovou rezervou. Ale dřív než jsem se stačil fakticky vyšvihnout, všechno už bylo zase jinak. Rozsypal se Sovětský svaz a mí šéfové přešli do trochu jiných rezortů. Ale ukázalo se, že právě tam jsem nejlepší. Stal jsem se teroristou bez bázně a hany a čiperně uspokojoval rozmanité zakázky, jako odklidit někoho hlídaného tou nejspolehlivější ochrankou, anebo rozdmýchat kdesi lokální konflikt. A určitě bych v té branži setrval, kdybych neobjevil, že existuje ještě cosi, co mě daleko víc uspokojuje: můj herecký talent.
 
-  
+</section>
+
+<section>
 
 Řekl jsem to blbě, přiznal scenárista, Kryštof samozřejmě není vysílačkou, Kryštof je přijímač, senzibilní přijímač. Vždyť co přece dělá? Sleduje Šakalovy pohyby, protože je na něho vyladěnej, přijímá kuchařův obraz, vidí ho v hlavě jak na monitoru. Nevidí ho sice nepřetržitě, ale rozhodně tak často, že může jeho směrem navádět celý policejní sbor, Zlato. A dělá tak z kuchaře štvance. A proto si kuchař najme zabijáky, aby zas našli Kryštofa.
 
@@ -491,7 +561,9 @@ Připouštím, že vypadají spíš jako bankéři, jako byznysmeni, jako emerit
 
 A scenárista, jsa teď ovšem do morku kostí i režisérem, jde za kameramanem a ukazuje mu, odkud a jak má brát břeh před železničním viaduktem, a celý štáb se dává do pohybu a tři herci v dobře padnoucích oblecích jdou kamsi dozadu, dokud je režisér zvednutou rukou nezastaví. Pak se už podívají jeden na druhého a zují si boty, svážou je tkaničkami a přehodí jak vandráci přes ramena a přelezou bílé zábradlí a spouští se opatrně po kamenné navigaci do koryta řeky. Je jeden z posledních nádherných dnů odcházejícího léta. Jdou s vyhrnutými nohavicemi prostředkem mělké Svratky, vždyť je tam sotva po kotníky, vyhýbají se kluzkým kamenům pod hladinou, kamera si je hlídá a scenárista ukazuje směr a rychlost pohybu. Ti tři Šakalovi gangsteři jsou ryzí horalé z Kavkazu, kterým uprostřed Brna, kde teď tráví svůj čas, chybí aspoň kousek kavkazské oblohy, a tak když nečekaně narazí na přece jenom jakousi říčku, která sice nezrcadlí nebe, ale přece jenom trochu teče a pění se, propukne to v nich nezvládnutelně: jdou s těmi vyhrnutými nohavicemi těch svých nejparádnějších obleků, dokonce si snad hvízdají nějakou písničku a ten, co je vpředu, se teď otočí a rozpřaženýma rukama couvá dozadu a diriguje ty dva hvízdající, jako by úplně zapomněli, jaké tady mají poslání a že jsou zabijáci, a ne kavkazští kluci, a že tohle není horský potok, ale ošklivá mělká řeka, zabarvená místy do kafé braun a místy zas řasami do svinibrodské zeleně.
 
-  
+</section>
+
+<section>
 
 Závidím vám, Adame Obkročníku, řekl kuchař, protože jste nikdy nepoznal, jakým mukám je vystaven každý, kdo se jako já zapletl s múzami. Ze dne na den jsem opustil bohabojnou teroristickou profesi, a než jsem se nadál, byl jsem filmovou hvězdou, a než jsem se nadál podruhé, dostal jsem za roli snajpra ve filmu Dlouhá noc v krátkém dni francouzského Césara, což je evropský Oscar.
 
@@ -499,7 +571,9 @@ Taxík bloudil Brnem jak Jeník s Mařenkou začarovaným lesem a kuchař chrl
 
 Ptáte se, proč jsem přijal roli v seriálu, jehož podstatná část se odehraje tady, v tomhle zaprděném městě, když si můžu po libosti vybírat mezi světovými režiséry a nejlepšími producenty? A proč mám zapotřebí dívat se na tak ohavné zmaštěniny, jako je tohle Boby centrum (a kuchař hodil hlavou ke komplexu budov za okýnkem taxíku), a dýchat vzduch stoupající ze zplesnivělé Brněnské přehrady? Proč? Skutečný herec je totiž kdykoliv připraven položit život za svou roli. Už když jsem si poprvé četl scénář toho seriálu, cítil jsem se vymrštěn a letěl jsem mohutným obloukem – rozumějte, takovou trampolínou byl už pouhý scénář – a když jsem zas dopadl, začal jsem se honem učit česky, protože jsem přesvědčen o tom, že i ten nejlepší dabing vždycky zprasí dílo.
 
-  
+</section>
+
+<section>
 
 Tři pánové, oblečeni jak emeritní senátoři, však s povytaženými nohavicemi, šli středem Svratky, kde byl tak líný proud, že sotva čeřil trsy vodní trávy. V srdcích jim stále ještě zvučely kavkazské struny a v duších měli jak na posvátných vrcholcích velehor. A tak není divu, že pro tu chvíli zapomněli, že jsou nedaleko centra hlučného města a že za jejich zády je obrovská a nepřetržitě hlučící křižovatka a před nimi že se po viaduktu vleče dlouhý nákladní vlak s cisternami a po jejich levoboku stojí první brněnský věžák, chmurná a otlučená budova, postavená kdysi dávno s tak uzounkým schodištěm, že tam pak nájemníkům museli podávat nábytek jeřábama do oken.
 
@@ -511,11 +585,15 @@ Myslím, že je to dobrý, říká spokojený scenárista, ale stejně si to je�
 
 Herec, co hraje policajta, vylézá z řeky, mokrý a ověšený zeleným a hnědým slizem, prská a obličej si otírá ručníkem, který mu rychle někdo podá. Ale zpátky už chválabohu nebude muset, i když se scéna ještě třikrát zopakuje. Teď už ho postupně vystřídají ti další tři, ti v ještě suchých uniformách.
 
-  
+</section>
+
+<section>
 
 Teprve v tomhle seriálu mám, Adame, pocit, že opravdu hraju sám sebe a že se do toho můžu naplno vložit! A taky jim ještě povím, že ten nápad s děckem jako mým protihráčem, to je terno! Jakýsi běženec, jehož původ nikdo nezná, zázračné dítě s obrovským nábojem senzibila, sedí teď někde v tomhle městě a vidí mě tím svým vnitřním zrakem jako skrytou kamerou! Kamkoliv se přemístím, ten kluk o mně ví, není kam uhnout, celý svět je najednou malý! A tak nemám jinou možnost, když nechcu, aby mě dostali. Nemám jinou možnost a posílám za ním tři zabijáky, pročesávají město, hledají ho, zvláštní sorta, děsivě mně oddaní, nebojí se ničeho, ani vlastní smrti, a navíc mají něco, co najdeš jenom tam na Kavkaze, totiž schopnost vyslídit senzibila a zneškodnit ho.
 
-  
+</section>
+
+<section>
 
 Dneska bych ještě chtěl udělat kousek útěku těch tří zabijáků, vysvětluje scenárista. Tady zezadu se vyšplhají po traverzách a skobách až na viadukt a pak by se mi, chlapci, líbilo, kdyby aspoň někdo z vás hereckých primadon projevil tolik nesmlouvavé odvahy a před přímým zrakem kamery naskočil na projíždějící vlak.
 
@@ -525,7 +603,9 @@ Ale tady ho scenárista rázně přeruší. Je proslulý tím, že v takových 
 
 Přijíždí další nákladní vlak. Herci, co hrají kavkazské zabijáky, naskakovali naposledy na jedoucí vlaky jako kluci a mezitím se jim reflexy zpomalily a vlaky zrychlily.
 
-  
+</section>
+
+<section>
 
 Adame Obkročníku, říká zas kuchař, jak velice si jich vážím jako obratného taxikáře, který se promáčkne každou dopravní skulinkou, tak mě zároveň děsivě serou, protože když na ně člověk takhle mluví, třeba i zezadu a opřený lokty o sedadlo vedle nich, měli by přece jen projevit trošku víc lidské sdílnosti a občas taky aspoň škubnutím ramene dát najevo, že mi jaksi rozumijou a s potěšením nahlížijou do mých smutků i radostí, co říkajou? Správně, jsem po Carlosovi jedničkou světového terorismu, to už mi nikdo neupře, ale žít svůj životní úděl a hrát ho, to je podstatný rozdíl: teprve když sám sebe hraju, dozvím se všechno o sobě. Vždyť všechno, co žijeme, žijeme nakonec jenom proto, aby to pak ti nejlepší z nás mohli zahrát! Svět je tady jen proto, aby mohl být převeden ve svou nesmrtelnou repliku, a teprve jako herec hrající teroristu spouštím se do samé artéské studny terorismu. Ale myslím, že si tady vystoupím, člověče Adame, zastavijou mi.
 
@@ -545,7 +625,9 @@ Nevěřijou, Adame, všemu, co se říká. Kuchař, to není víc než legenda a
 
 Čury mury, řekne smutně kuchař a ukáže na Adamovy mokré kalhoty, schová berettu a ťukne ukazováčkem do kšiltu a odporoučí se i se svým hafanem a už zas šlapou vzhůru k zoologické zahradě.
 
-  
+</section>
+
+<section>
 
 Když jeden z herců hrajících kavkazské zabijáky naskakuje do projíždějícího vlaku, smekne se mu noha a vysmekne se mu tyč, jíž se chtěl přidržet, a už je pod koly vlaku, křičí, ale hluk projíždějící soupravy křik dočista vymaže a všichni zděšeně zírají, jak tam teď leží s vyvrácenou hlavou a vlak mu šrotuje nohy.
 
@@ -567,7 +649,9 @@ Mývalové, konečně bude zas všechno koncentrováno v jedněch rukou a kone
 
 Mezitím mývalové přešli v úplné žebrací orgie a stavěli se na hlavy, na uši a na ocasy, jen aby z kuchaře něco vyžebrali, ale ten, sotva ukončil svou řeč, nevěnoval jim už ani omrvinku pozornosti, tím méně, aby jim snad věnoval nějaký pamlsek, pozapínal si knoflíky, zašněroval si tkaničky, mlaskl na chrta a pokračovali v cestě.
 
-  
+</section>
+
+<section>
 
 Zbyšek Cybulski! vzpomněl si náhle scenárista a ozářilo ho to jako blesk. Jak mě to mohlo tak dlouho nenapadnout! Ale ne, řekl si po chvíli, zase ne, na to snad nepřijdu.
 
@@ -577,7 +661,9 @@ Scenárista stál stranou, nikdo si ho nevšímal, a když mu konečně došlo,
 
 Zlatovláska a Kryštof, kteří se také zúčastnili vynášení herce, pocítili teď ke scenáristovi hlubokou nevoli a nechuť. Zazvonil zvonec a pohádky je konec, řekla si Zlatovláska a vzala Kryštofa za ručku. Je, kamaráde, čas vrátit se domů.
 
-  
+</section>
+
+<section>
 
 Davida by nikdy dřív nenapadlo, že si může takhle rozumět se Šebestiánem, a dokonce Davidova matka Sára přišla Šebestiánovi na chuť a oba teď byli u Šebestiána pečení vaření a Sára dokonce, když přišlo na věc, upekla nejen pro svého Davida, ale i pro Šebes­tiána pravou terstskou pizzu s oříšky, zatímco Šebestiánova matka Josefina uměla spíš jen kout pikle a vařit jedy, ale nikdy toho teď nezneužila a byla mírná jak ovečka.
 
@@ -609,7 +695,9 @@ Adam stál před zdí (od níž se odstavila kuchyňská linka) s černou fixko
 
 Dámy a pánové, v této chvíli, zatímco vám tady řečním, by mělo končit natáčení u železničního viaduktu ve Štýřicích a po pauze určené na oběd se celý televizní štáb přesune na Koliště, kde se má znova zopakovat slavná úvodní scéna s výbuchem náklaďáku. Při prvním natáčení se prý tak docela nevydařila, což se zjistilo až při kompletaci prvé části seriálu. Zlatovláska s Kryštofem sice v téhle sekvenci neúčinkují, ale scenárista je tahá všude s sebou, protože chce, aby se seriálem srostli a stali se jeho neoddělitelnou součástí.
 
-  
+</section>
+
+<section>
 
 Zlatovláska s Kryštofem se na útěku od železničního viaduktu zastavili u stánku na Mendláku a dopřáli si tam velké křupavé housky plněné povidly, tamější specialitu. A když se nadlábli, pokračovali zas v cestě. A upřímně řečeno, už se zas těšili domů a na Šebestiána a jeho protivné kantorské manýry a na okno s výhledem na Špil­berk, ale taky na souseda seshora, kterého sice nikdy neviděli (byl plachý jak tarbík egyptský), ale každou noc slyšeli, jak jim dupe po stropě. A nad kostelem Nanebevzetí Panny Marie stály zas chmurné mraky (v severovýchodních Čechách, na Rychnovsku, byly znova zátopy) a Zlatovláska s Kryštofem se na ně chvíli znepokojeně dívali a pak jim zas cestu zahradili bezdomovci, kteří táhli před Mendlák se svými kárami a kočárky, naloženými poskládanými papírovými krabicemi. A zatímco čekali, až jim bezdomovci uvolní cestu, vyprávěl Kryštof Zlatovlásce o snu, co se mu zdál na dnešek (o snu, v němž mi bylo, představ si, celých jednačtyřicet a mým otcem byl stařičký kunsthistorik, který mě pak na přehradě umlátil veslem).
 
@@ -617,7 +705,9 @@ Ach, ty tvoje sny! smála se Zlatovláska, a protože bezdomovci už mezitím o
 
 Není co dopovídat. Bohužel mě umlátil veslem.
 
-  
+</section>
+
+<section>
 
 Nemáme už času nazbyt, končí Adam svůj výklad. Televizní štáb se už totiž každou chvíli přesune ze Štýřic na Koliště a měli bychom tam být zároveň s nimi. Moc by mě potěšilo, kdybyste si vtiskli do paměti, co jsem vám tady zakreslil (a Adam kývl ke kuchyňské zdi pomalované situačním plánkem únosu kolečky, šipkami a křížky), a teď už nám všem přeji jen dostatek odhodlání, nepomíjející odvahy a osobní zarputilosti.
 
@@ -625,7 +715,9 @@ A sotva jim popřál, Šebestián, David, Sára a Josefina seběhli po schodi�
 
 Taxík se odlepil a sjížděl dolů po Úvoze.
 
-  
+</section>
+
+<section>
 
 Zlatovláska s Kryštofem stoupali vzhůru po Úvoze.
 
@@ -663,7 +755,9 @@ Ale s tázavým ksichtíkem vylezl odkudsi leda Miloš, ježčí bodlinky ješt
 
 Plav, Miloši, tebe jsem nevolala!
 
-  
+</section>
+
+<section>
 
 Šebestián, Adam, David, Sára a Josefina zaujali své postavení na Kolišti a číhali, kdy se objeví televizní minibus se Zlatovláskou a Kryštofem. Ale čas plynul a stále se nic nedělo.
 
@@ -681,7 +775,9 @@ Kurník šopa, mlčte, báby! zasténal Adam.
 
 Miloš byl stejně jako první československý prezident nepřítelem alkoholu, ale stejně jako TGM měl docela rád rumové pralinky, a teď seděl zalezlý pod kuchyňským stolem a sofistikovaným ježčím rypáčkem si otvíral krabici pralinek, ke které kdesi přišel. A jestli kdysi na počátku našeho příběhu výbuch bomby na Kolišti, vzpomeňte si, zazněl v kuchyni u Zlatovlásky jak mlasknutí ježka hltajícího rumovou pralinku, teď naopak Milošovo mlasknutí pod kuchyňským stolem zaznělo na Kolišti jak výbuch bomby!
 
-  
+</section>
+
+<section>
 
 A je to tady, upozornil Adam a podíval se na nebe nad Kolištěm a vzápětí zazněla druhá detonace.
 
@@ -689,7 +785,9 @@ To jsou šlehy! pochvalovala si Sára. Ale kde jsou televizní kamery a kde je 
 
 A nad Kolištěm duněla rána za ránou, tvrdá a nepřestávající řachba zasolila nebe nad křižovatkou na rohu Koliště a Malinovského náměstí a vozidla už přestala dbát pokynů semaforu a mezi lidmi propukla panika a jen Šebestián, Adam, David, Sára a Josefina stáli semknuti v kruhu, aby jim neproklouzla ani myš, a čekali, až nadejde čas únosu.
 
-  
+</section>
+
+<section>
 
 Propánajána, Miloši! lekla se Zlatovláska, když zjistila, že ježek pojídá pod stolem krabici pralinek. Kryštofe, vlez tam a seber mu to, vždyť se může stát neštěstí!
 
@@ -704,3 +802,5 @@ Alkoholické výpary z ježčí tlamy se srazily nad Kolištěm a pralinkový 
 Ale ráno pak propukla ošklivá kocovina.
 
 > _Dopsáno 19. března 1999_
+
+</section>

@@ -3,9 +3,13 @@ title: 3\. DÍL Křik Mínótaurův
 contentType: prose
 ---
 
+<section>
+
 Jmenuju se Šebestián, jsem historik umění a bydlím na Durďákově ulici, hned tady kousek za rohem, nedaleko hospody U Kaštanů. Mám syna Kryštofa, o němž bych raději pomlčel, ale budu muset promluvit. Jeho matka, má první žena, zemřela při porodu a Kryštof se narodil mongoloidní. Je mu už jednačtyřicet, ale chová se a myslí, jako by mu bylo pět. Většinu svého života strávil v ústavu, ale ta léta právě skončila. Ten dům, kde byl ústav, totiž restituovali, vrátili původním majitelům. Chovance přemístili do nějakého jiného ústavu, kde je ovšem tím pádem narváno. A Kryštofovi se tam z toho důvodu znelíbilo a utekl. Stal se z něho běženec a je teď na cestě za mnou. Ale než sem dorazí, tak si zatím něco povězme. Správně, takhle by to mohlo začít. Takže s pomocí boží začněme. A začněme hned uprostřed noci, nemáteli třeba námitek.
 
-  
+</section>
+
+<section>
 
 Celou noc se mi nedařilo spát, přestože jsem se úporně snažil. Anebo nejspíš právě proto. Byl jsem zajatcem parádní ztuhlosti, kterou tentokrát nerozpustila ani tableta rohypnolu. Ano, tak je to, v poslední době pojídám prášky jak mravenečník mravence. Ale pak jsem už vklouzl k Zlatovlásce do pokoje.
 
@@ -31,14 +35,18 @@ U mě v pokoji hrajeme s Milošem celé noci šachové partie. S potěšení
 
 A pak už taky obvykle posnídáme. Miloš má na mém stole svůj roztomilý miniaturní jídelní stoleček a u něj s nezlomným apetitem spořádá vše, co mu nabídnu. A pokud je to vajíčko natvrdo, svižně ho naporcuje svou tureckou šavlí. A jestli je tu navíc ještě plátek grepu, nasadí si svou motoristickou kuklu, aby mu ovocná šťáva nestříkala do očí. A jen výjimečně se stane, že se nějakým pudingem zaplácá tak neskutečně, že pak dlouho stojí před zrcadlem a oždibuje se mlsnými prsty a recituje Rimbauda:
 
-  
+</section>
+
+<section>
 
 _Fuj, naše vyschlé sliny třísní  
 jak deštík tvrz  
 a infikují dosud plísní  
 tvůj oblý prs._
 
-  
+</section>
+
+<section>
 
 Ale to se já už holím a spěchám za svými povinnostmi. Zívající hobit mě ještě doprovází ke dveřím, jako kdyby on byl má zlatá ženuška, ale sotva za mnou zapadnou, už se drápe na knihovnu do svého polního lůžka a před spaním si ještě cvakne z placaté lahvičky velikosti kapří šupiny.
 
@@ -50,7 +58,9 @@ Ale teď mám ještě jednu povinnost. Když už jsem vypověděl ledasco o sv�
 
 A budu se muset rozmáchnout trochu zeširoka a předeslat při té příležitosti, omlouvám se, taky něco o sobě. Ale slibuju, budu stručný, omezím se jen na nezbytnosti.
 
-  
+</section>
+
+<section>
 
 Takže po sovětské okupaci Československa a následných čistkách jsem patřil k těm, které nakonec vylili z fakulty. Protloukal jsem se všelijak a živil se například nádenickými překlady technické literatury a studentům dějin umění jsem za laciné honoráře vypracovával jejich diplomky, ale také jsem se podílel na úmorném zpracovávání evidence kulturních památek. Nejsem památkář, ale mám mezi nimi dobré známé, a když bylo nejhůř, nabídli mi tu práci, a tak jsem objížděl (většinou na podzim a v zimě) zámky, hrady, tvrze, ale i kostely a revidoval podle starých a barevnými tužkami už nesčetněkrát proškrtaných seznamů soupisy veškerého mobiliáře a soupisy obrazů, ale také monstrancí, kalichů, mešních konviček, ciborií, kadidelnic a ornátů a přespával v nevytopených inspekčních kamrlících anebo zatuchlých hotýlcích a trávil nekonečný čas s kastelány, faráři a okresními úředníky a celou věčnost v obstarožních autobusech a nevlídných osobácích na zapadlých tratích, na nichž jsem vyhlížel věžičky svých kostelíků nebo brány zámečků a tvrzí.
 
@@ -58,7 +68,9 @@ Teprve osmdesátá léta mi přenesla úlevu. Už mi směli občas něco otiskno
 
 Ale nebudu opakovat, co dnes už nikoho nezajímá. Všechno se ještě pár měsíců protáhlo, jak jinak, ale nakonec nejen Bukurešť, Budapešť, Berlín, Krakov, ale i Brno shodilo temný příkrov, pod nímž si do poslední chvíle tak libovalo. Univerzita se už znova jmenovala Masarykova a už se zas všichni ke mně hlásili (měl jsem nejen čistý štít, ale navíc i znamenité jméno). Vrátil jsem se tedy na fakultu, ale přijal jen docela malý úvazek, jen několik přednášek a seminářů, protože jsem se chtěl soustředit především na práci na knize o postavení a smyslu výtvarného umění v naší postmoderní epoše.
 
-  
+</section>
+
+<section>
 
 A na své první přednášce jsem se také poprvé setkal se Zlatovláskou. Ostatně, bylo obtížné si jí nevšimnout. Něco z Corotovy Ženy s perlou, ano, Ženy s perlou Camilla Corota, ten velice zvláštní dívčí půvab, za nímž bylo možné tušit jakési tajemství, věkovitou paměť Sfingy? ptal jsem se hned napoprvé, a až mnohem později jsem pochopil (v těch nejhorších chvílích svého života), že jen nejhlubší pohrdání a neproniknutelnou lhostejnost…
 
@@ -76,13 +88,17 @@ A teď během celé přednášky, zatímco jsem promlouval o psychologických 
 
 Pak jsem skončil, přednáška skončila, ale všichni studenti a studentky tam zůstali dál tiše a nehybně sedět, jako by ještě na cosi čekali.
 
-  
+</section>
+
+<section>
 
 Nepřítomně jsem se na své studenty usmál (už jsem dost spěchal domů, kde na mě čekala Sára, má dlouholetá přítelkyně, skorosnoubenka, jak jsem jí žertovně říkal, a přemýšlel jsem teď o tom, jestli nemám cestou ještě něco koupit, dohodli jsme se na malé oslavě mých narozenin a měl jsem zas pocit, že jsem nechal všechno jenom na Sáře) a už jsem si skládal papíry do aktovky, když jsem zaznamenal nějaký rychlý pohyb, jako když z telefonních drátů zaráz vzlétne veliké hejno vlaštovek. Překvapeně jsem zvedl hlavu a uviděl něco nepopsatelného: posluchárnu plnou růží! Všichni měli před sebou kytice, které do té chvíle kdesi schovávali, a už se začali řadit do dlouhého gratulačního průvodu a bavili se tím, jak mě uvedli do rozpaků tou záplavou květin. Osmapadesátiny nejsou přece žádné kulatiny, nenapadlo mě, že mí studenti je vezmou na vědomí, a už vůbec ne, že tímto způsobem. S ničím jsem nepočítal, ale jak vidět, tak jsem měl, byl to přece po tak dlouhém vyhoštění můj první rok na fakultě.
 
 Ale to už jsem také pochopil, že právě ta sytá vůně neviditelných růží mě po celou tu hodinu, po celou mou přednášku držela na Adamově pohřbu, v obřadní síni s květinovými věnci, a vymalovala obraz, který v určitých chvílích byl už tak zřetelný, že překryl skutečnost.
 
-  
+</section>
+
+<section>
 
 (A tak ven s tím! Bylo to totiž jinak! Nezapomínejme prosím, kdy se to odehrálo! 11. března! Březnové růže jsou svým způsobem nádherné a hlavně drahé skleníkové růže, jenže vůbec nevoní!
 
@@ -94,7 +110,9 @@ Ale nejspíš to bylo docela jednoduché. Během přednášky, při svém pendlo
 
 A není to krásný příklad řetězení iluzí? Neviditelné růže vytvářející svou neexistující vůní iluzivní prostor! A zas vás poprosím: zapamatujte si to. Možná je to klíč k tomu, co vám tu budu dál vyprávět. Řetězení iluzí.)
 
-  
+</section>
+
+<section>
 
 Bylo páteční odpoledne a zamknout ten růžový sad přes víkend do mé pracovny znamenalo zastihnout ho v pondělí už v odkvětu. Ale i na to ti neřádi mysleli. Vybrali šest svých spolužaček a ty se ujaly růží, ošetřily je a přichystaly na cestu a já zavolal domů Sáře, že budeme mít menší společnost.
 
@@ -154,13 +172,17 @@ A ještě něco se na tom úleku podepsalo. Ale to jsem nemohl vědět. Poprvé
 
 Pokoušel jsem se Zlatovlásce vysvětlit, kdo že je hobit Miloš a proč není důvodu, aby se ho bála. Ale ten šok z úleku ji roztřásl natolik, že jsem ji nakonec musel sevřít v náruči, trochu však zaskočen tím, že jediné, co měla v té chvíli na sobě, byl ten takřka nezachytitelný úsměv Corotovy Ženy s perlou, ano, úsměv, pro nějž je tenhle portrét ve všech světových výtvarných encyklopediích stereotypně (a dodejme, že i hloupě) označován za „moderní Monu Lisu“. A když si teď v Pijoanových Dějinách umění nalistujete reprodukci Corotova obrazu (a učiňte tak, já klidně počkám, nikam nespěcháme), sami zjistíte, co jsem to ve skutečnosti držel v náruči. Jen (mrazivě nádhernou) skleníkovou růži…
 
-  
+</section>
+
+<section>
 
 Příští den byla sobota, nemusel jsem nikam vstávat. A Sára, jak jsem ji znal, přijde až někdy odpoledne, protože o sladké sobotní vyspávání se nenechala nikdy okrást. Ale když pak odpoledne opravdu přišla a otevřela si svým klíčem, zastihla nás ještě spící a zaklíněné do sebe jak národní barvy ve státní vlajce. Neřekla slovo, jen malý okamžik tam v prostém zadumání postála (neznatelně jsem pootevřel víčka, vyfotografoval si ji na památku a zas je rychle zaklapl) a pak položila na stolek klíč a otočila se a zabouchla dole dveře a už jsme se nikdá neviděli.
 
 A až teď po jejím odchodu si uvědomuju, že mi tak vlastně ušetřila povinnost něco tu ještě o ní dodávat, vytratila se z mého povídání dřív, než se tam stačila zabydlet.
 
-  
+</section>
+
+<section>
 
 Od té březnové soboty, kdy Zltovláska poprvé přespala v mém domě, už uběhlo víc než osm roků a je mi už šestašedesát a Zlatovlásce šestadvacet a ten věkový rozdíl je teď až příliš krutý. Když jsem se s ní ženil (v květnu 1990, dva měsíce po té březnové noci), mohl jsem si ještě připadat jako Humbert Humbert z Nabokovovy Lolity, ale teď jsem už jen srandovní figurka z nějaké paroháčské frašky. A občas je mi to důrazně připomínáno. Nedávno se Zlatovláska dívala na televizní záznam z prvého dne nové poslanecké sněmovny. A pak tam ukázali Václava Klause, jak se za předsednickým pultem učí mačkat tlačítka a jak se mu to pořád plete.
 
@@ -170,7 +192,9 @@ Ještě trochu učím na fakultě, ještě trochu publikuju a ještě trochu ž
 
 Ale o tom jsem opravdu nechtěl.
 
-  
+</section>
+
+<section>
 
 Takže vraťme se zas tam, kde jsme začali. Je úterý 18. srpna 1998, větší část noci na dnešek jsem strávil nad partií šachu s Milošem (a ošklivě jsem ji prohrál, přestože jsme hráli mou oblíbenou sicilskou obranu), pak jsme spolu posnídali grep a tousty, a zatímco Zlatovláska ještě putovala po dně svých snových moří, zívající Miloš mě doprovodil ke dveřím, aby se hned poté vydrápal do svého polního lůžka na mé knihovně. Ale pak se stalo něco neobvyklého. Už jsem byl na ulici před brankou, když se Miloš objevil za oknem, a nedbaje, že by ho mohl někdo zahlédnout, zuřivě bušil lžicí na sklo. Otočím se, hledím na něho, naznačuju mu, aby toho okamžitě nechal, ale pak mi nezbývá, než se vrátit domů.
 
@@ -182,7 +206,9 @@ Co se děje, můj pane? zajímal se Miloš. Kdo byl ten člověk? A podíval se
 
 Nezapřel v sobě své někdejší povolání, nezapřel malého špicla.
 
-  
+</section>
+
+<section>
 
 Přesně tak, nadešel čas povědět něco o Milošovi. Takže si setkání s Kryštofem ještě kousek poodsunem.
 
@@ -190,7 +216,9 @@ Moc rád bych vám teď připomenul, jaké gaudium svého času (ale to už je o
 
 Miloš mi později potvrdil, že se s liliputánkou předobře znal. Neměl totiž na vybranou, byl s ní ve vyšším zájmu ženat (jmenovala se Josefina) a čekalo se (ale nedočkalo), že s ní bude mít liliputánčata. A Miloš si taky vzpomněl, jak tenkrát, na jaře v roce 1988, utekla otevřeným oknem a způsobila to srocení lidu, to gaudium na Poštovské. Ale dříve než ji vůbec někdo stačil oželet, už se zas vrátila. Její touha po svobodě nebyla zas tak sžíravá, aby jí dala přednost před kuličkami kaviáru (v jejím případě velikými jak černé trestanecké koule na nohou) a před čekankovým salátem s rokforovou zálivkou. Ale když pak zas čas oponou trhnul, rozhodli se utéct oba dva. Z domácnosti krajského tajemníka tehdy právě bouřlivě odstavované komunistické partaje. Liliputánka bohužel vzala rychlý konec, ale Miloš se od ledna do jara devadesátého potuloval Brnem, sleduje se značnou nevolí demokratický proces zvolna prorůstající všemi strukturami. Byl totiž vychován k nedůvěře v občanskou společnost a jen obtížně se s tou nedůvěrou loučil. Zázrakem dokázal přežít zimu, ale možná že to ani nebyl takový zázrak, když uvážíme, že jeho původní domovinou byl Kavkaz a že měl za sebou (na rozdíl od své ženy Josefiny) tvrdý výcvik příslušníka jednotky moc zvláštního nasazení. Ale sotva v parku pod Špilberkem rozkvetly prvé kaštany, rozhodl se Miloš, že by zas rád někomu patřil. Nebyl stvořen pro svobodu, zrovna tak jako černý Brown nebyl stvořen pro bič otrokáře.
 
-  
+</section>
+
+<section>
 
 Hledání nového pána věnoval ten namyšlený hobit nesmírnou péči, a když si nakonec vybral čertvíproč mě, strávil ještě dlouhý čas mým sledováním. Skryt ve stínu sedával večer za mým oknem a okamžitě na miniaturním komputeru vyhodnocoval svá tichá pozorování. A mně se v tom čase někdy stávalo, že jsem náhle zvedl hlavu od knihy a zahlédl za oknem dvě pichlavá očiska a trhl jsem sebou a rychle zamával rukama, abych rozehnal halucinace z celodenní únavy. A poté co mě podrobil tak důkladnému pozorování a nenarazil na nic, co by ho dokázalo odradit, nezbývalo mu než zaonačit to tak, abych měl dojem, že to já jsem si ulovil jeho, a ne on mě.
 
@@ -204,7 +232,9 @@ Ti, co šili pro pimprlatová divadla, svedli tak právě oblíkat kašpary a �
 
 A to je všechno moc hezké, ale taky je třeba vědět, že Miloš býval v časech krajského tajemníka opravdovým špiclem a práskačem, a v tom spočívalo to jeho moc zvláštní nasazení, k němuž byl obzvláštně vycvičen. Díky své maličké postavičce se dostal tam, kam jiní neměli šanci. A celý ten prastarý nápad prošpikovat někdejší tábor míru a socialismu těmihle roztomilými agentíky shořel nakonec na tom, že liliputáni se nemohli či nechtěli množit, takže všechny ty slavné tajné liliputí svatby, na nichž, aby jim dodali patřičného lesku, vždycky figurovali vysocí důstojníci KGB, byly nakonec k ničemu. Ten pozoruhodný kavkazský rod, objevený kdysi ve skalních štěrbinách elbruského masivu, se množil jen ve svém přirozeném biotopu, jen doma v horách, a jeho ochočená a pro potřeby KGB vydrezúrovaná odnož byla neplodná. Ale vycházeje ze své zkušenosti s Milošem, jako domácí komorníčkové a služebníčkové se mi jevili docela užiteční.
 
-  
+</section>
+
+<section>
 
 Takže ještě jednou a naposledy: je úterý 18. srpna 1998, vycházím z domu a už jsem na ulici před brankou, když se Miloš objeví za oknem a buší zevnitř lžicí na sklo. Otočím se, hledím na něho, naznačuju mu, aby toho okamžitě nechal, ale nakonec mi nezbývá, než se vrátit domů. A Miloš se omlouvá, že mi zapomněl říct, že tady byl Kryštof.
 
@@ -214,7 +244,9 @@ Ani nemám v diáři telefon ústavu, kde je Kryštof internován (kousek od Br
 
 Pokládám sluchátko a na lísteček napíšu prosbu Zlatovlásce, aby toho, co se jí představil jako Kryštof, už nevyhazovala, kdyby se znovu objevil, a usadila ho u mě v pokoji. Ale protože v tuhle hodinu Zlatovláska ještě obývá svou planetu snů (a má tam zrovna půlnoc), přišpendlím lístek nad kuchyňskou linku. Když budu mít štěstí, tak si ho přečte, až si bude připravovat snídani.
 
-  
+</section>
+
+<section>
 
 Jdu podél Dětské nemocnice dolů do města. A v tuto chvíli, a mohl bych to odpřisáhnout, opravdu ještě nevím, kam vlastně mířím. A teprve když jsem prošel po Kolišti a pokračoval směrem k Hlavnímu nádraží, došlo mi, že právě tam bych se měl podívat. Tam obvykle hledali azyl běženci ze všelijakých ústavů.
 
@@ -244,7 +276,9 @@ Zdálo se mi, že stoupáme nekonečně dlouho, ale to bylo zajisté tím klaust
 
 Nějaký čas jsem tam přitróble stál. Ale když jsem se ohlédl, můj průvodce už zmizel. Zůstal jsem na konci schodišťové spirály sám. Jak nešťasný Wittgenstein na konci vší filozofie.
 
-  
+</section>
+
+<section>
 
 A pak se dveře prudce otevřely. Chválabohu dovnitř, jinak by mě smetly zpátky do víru schodiště.
 
@@ -294,7 +328,9 @@ Ale posaď se přece, Šebestiáne, takové zprávy se lépe přijímají vsedě
 
 I usoudil jsem, že nemusím zas všechno poslouchat, a aniž bych se nějak dojemně rozloučil, prostě jsem se rozběhl ke dveřím a za Mínótaurova křiku seběhl po šnekovitém schodišti a proletěl smradlavou místnůstkou a náš přítel Kerberos alias agentka Scullyová za mnou jen zíral.
 
-  
+</section>
+
+<section>
 
 Proběhl jsem podchodem a nikdo se mě nepokoušel zadržet a vyjel jsem eskalátorem na světlo boží a nikoho neměl v patách.
 
@@ -307,3 +343,5 @@ A pak jsem si konečně vzpomněl, kam jsem původně šel, kam jsem měl namí
 David je psycholog umění, stoupenec gestaltické koncepce, ale pokud vím, nikdy se neuzavíral před nějakou jinou zkušeností: tvarová psychologie mu nebyla ideologií, naopak, otvírala ho každému dalšímu hledání. V devadesátých letech mu vyšly dvě knížky pokoušející se porozumět tomu, čím dnes chce být výtvarné umění. A tím byl taky pro mě zajímavý. Ale sotva se dalo mluvit o přátelství. Kdysi mi žertem řekl, že si ho pletu s psychoanalytikem. To když jsem ho krátce před svou svatbou se Zlatovláskou náhodou potkal u haly Rondo a zašli jsme si na skleničku a nakonec jsem se rozpovídal důvěrněji, než bývá zvykem. Ale ta rozmluva neměla nikdy pokračování. A pak už jsme se setkávali jenom na fakultě a dosud nikdy jsem nebyl u něho doma. A včera mi překvapivě zavolal, že ulovil na blešáku na Římském náměstí moc zajímavý objekt, dá-li se to tak nazvat. Musel najmout taxíka k jeho přepravě, ale myslí si, že mu to rozhodně stálo za to, a mně zas rozhodně bude stát za to přijít se podívat. Jsem celej den doma, stav se, kdy se ti to hodí, a zavěsil.
 
 Bydlel kdesi na Úvoze. Sedl jsem na tramvaj a rozjel se na Mend­lák.
+
+</section>

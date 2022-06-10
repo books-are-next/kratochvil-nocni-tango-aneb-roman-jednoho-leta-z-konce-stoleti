@@ -3,6 +3,8 @@ title: "1\\. DÍL V\_Brně na Kolišti"
 contentType: prose
 ---
 
+<section>
+
 V Brně na Kolišti vybuchla bomba. V kuchyni u Zlatovlásky to bylo slyšet jako mlasknutí ježka hltajícího rumovou pralinku. (Správně, zapamatujme si to: mlasknutí ježka hltajícího rumovou pralinku.) Ale protože v kuchyni opravdu byl ježek (jmenoval se Miloš), nikdo tomu nevěnoval pozornost. Jenom Zlatovláska řekla (pětiletému) Kryštofovi, aby už Miloše konečně odnesl na zahrádku.
 
 Uvážíme to, odpověděl.
@@ -69,7 +71,9 @@ Ale to se už Davidova matka, přesná jak smrt, přezouvala v předsíni. Sár
 
 Takhle totiž vypadal Kryštofův den u Davida. Od rána do večera se o něho starala Sára, Davidova matka. Stejně jako u Šebes­tiána se zas o něho starala Josefina, Šebestiánova matka. Josefina připravovala Kryštofa do školy, a to s takovým zápalem, že uměl číst a psát už ve čtyřech letech. Ale nejen zásluhou toho zápalu. Kryštof byl totiž po čertech chytrý děcko. Už v těch čtyřech pěti letech byl ochoten sežrat všecku moudrost světa. Aniž ho ta ochota naplňovala protivnou domýšlivostí dětských primadon. A to zas bylo nejspíš zásluhou Sáry, která nejen doplňovala Josefininy školské lekce, ale především se věnovala Kryštofově citové stránce, rozvíjela jeho citové nadání ruku v ruce s jakýmsi řekněme přímo filozofickým fundamentem, čímž se tady, nelekejte se, míní, že vedli spolu hovory o životě a smrti. Takže pedagogický konglomerát těch dvou milujících babiček stvořil dítě, jehož hypertrofovaný rozum uzavřel sňatek se stejně obézní emocionalitou, jak by to pojmenoval Šebestián. A dnes například měla Davidova matka v úmyslu věnovat se Kryštofově vrozené náchylnosti ke zvířecímu světu, jeho citovým vazbám na všechno, co nosilo chobot, tahalo za sebou dlouhý ocas, anebo aspoň roztáhlo netopýří křídla, slovem, chtěla ho vzít do brněnské zoologické zahrady.
 
-  
+</section>
+
+<section>
 
 David byl zaměstnán jako redaktor v brněnském studiu Českého rozhlasu a Zlatovláska jezdila s tramvajemi. A tak dnes v 10.12 střídala řidiče jedenáctky na zastávce nahoře na České. Měla tedy ještě čas doprovodit Davida a stavili se spolu v bistru nedaleko rádia.
 
@@ -111,7 +115,9 @@ A můj Komenskej je hnedka pod ním!
 
 Kdepak, brání se číšník a ukazuje peněženku, mám tady už jen sbor svatejch Anežek, kterým, pohleďte, káže jeden Palackej a čtou jim pohádky dvě Barunky Panklový, a tady, vidíte, jim ještě zpívá jedna Ema Destinnová. Ale nikde žádnej váš Komenskej.
 
-  
+</section>
+
+<section>
 
 A v té samé chvíli na vzdáleném konci města, totiž na Mniší hoře, prošla právě Sára s Kryštofem bránou zoologické zahrady, koupila lístky a stoupali spolu do kopce k nejbližším klecím.
 
@@ -159,7 +165,9 @@ A když se pak zas tramvají vraceli do města, byli už oba uchozeni a Sára 
 
 Jak už tu bylo myslím řečeno, Sára si Zlatovlásku neoblíbila (byla jí protivná její sexuální bezednost, a to, že natáhla svá milostná klepeta i po jejím synovi, přivádělo Sáru až k výbuchům bezmocného vzteku), ale třeba hned dodat, že Zlatovlásčina rozhodnutí ujmout se Kryštofa si považovala. Nešlo totiž o žádnou běžnou adopci. O tom dítěti nikdo nic nevěděl a ani nemohl vědět.
 
-  
+</section>
+
+<section>
 
 Jako osmiměsíční bylo nalezeno v barokním chrámu Panny Marie Vítězné v Brně-Černých Polích. Leželo tam na klekátku v severní boční kapli, klekátku přistaveném k nice s obrazem korábu v bouři, mylně připisovaným Janu Jiřímu Heinschovi. Dítě bylo zabaleno do špinavých hadrů, podle nichž se nedalo vůbec nic zjistit. Kněz si pamatoval, že toho dne se objevilo v kostele velké společenství rumunských nebo albánských, ale možná taky kavkazských běženců a že mezi nimi byly i matky s malými dětmi. Odložila tam některá z nich své dítě v naději, že se ho ujmou dobří lidé, anebo ho tam zapomněla, a protože mezitím taky zapomněla, kde ho zapomněla, běží teď kamsi od hlavy k patě, požírána pustošivým žalem? Ale nebylo už v lidských silách to zjistit: společenství běženců se vzápětí rozpustilo jak beránci na obloze, rozsypalo se do malých skupinek a každá z nich už rychle hledala jinou cestu do své zaslíbené země.
 
@@ -171,13 +179,17 @@ Už před čtyřmi roky, už v září 1994, si Zlatovláska se Šebes­tiánem
 
 Ale dosti rychle se ukázalo, že měla při té volbě štěstí. A že jí dokonce kdekdo může závidět. Kryštof byl snad přímo darem z nebes: vždyť kromě toho, že se dalo čekat, že z něj nejspíš vyroste nový Wittgenstein, anebo, co já vím, James Chadwick, byl vstřícný i k lásce a laskavosti a sám je už v pěti letech uměl rozdávat. A tak přestože genetický mlýn, z něhož byl počat, klapal kdesi v dalekých temnotách, a přestože ten mlýn byl poháněn vodami, o nichž tady nikdo nic nevěděl, už teď bylo jasné, že z Kryštofovy budoucnosti není třeba mít obavy a že ty, co se kolem něho v dobré vůli shromáždili, žádné ošklivé překvapení nečeká. Jistě i tak se to dalo říct: rozmarný propletenec vztahů Zlatovlásčiných mužských i jejich matek byl všemi svými vrstevnicemi soustředěn ke svému centru, ke Kryštofovi.
 
-  
+</section>
+
+<section>
 
 Kryštof se sklonil nad spící babičkou a lehounce jí stiskl nos, až Sára zalapala po dechu, otevřela oči a usmála se na něho. Tramvaj zastavila nad hospodou U Kaštanů a byli zas doma.
 
 Ale moment, ještě chvíli zpět. Vraťme se ještě do oněch slastných chvil, kdy se Kryštof se Sárou kochali pohledem na roztomilá mývalí stvoření a kdy do jejich žebravých praciček vsouvali pamlsky z babiččina kapsáře. V ten samý čas totiž Šebestián zahajoval hodinu občanské výchovy.
 
-  
+</section>
+
+<section>
 
 Šebestián právě zahajoval hodinu, jež byla dosti výjimečná a kterou dopřával svým žákům (ale i sám sobě) jen jednou za čtvrt roku. Vlastně neměla nic společného s občanskou výchovou, aspoň ne s tou, co ji měl v osnovách, ale Šebestián jí rád říkával laboratoř občanské výchovy. Na ten nápad přišel už velice dávno, ještě v časech, kdy téhle zemi vládli sovětští okupanti prostřednictvím svých místodržitelů a nohsledů a kdy být učitelem znamenalo také být slouhou těchhle křivochcálků. Šebestián ovšem odmítal být slouhou křivochcálků. Učil v té době na odborném učilišti a zavedl si tam hodiny, v nichž odpovídal na všetečné otázky, které mu žáci směli (jednou za čtvrt roku) klást. A v těch dřevních časech to bývaly otázky skoro vždycky politické. Velice odvážné politické otázky, na něž Šebestián taky velice odvážně odpovídal. Riskoval samozřejmě, že bude mít ve třídě práskače, ale nikdy se nic takového nestalo, přestože ty hodiny provozoval léta. Mluvil se svými žáky a žákyněmi otevřeně a upřímně naprosto o všem a získal tak jejich respekt a neztratil vůbec nic.
 
@@ -195,7 +207,9 @@ V milostných vztazích neexistuje žádné správné a nesprávné. Je to úz
 
 Pánbů s námi a zlé pryč, polekal se Šebestián, kážu tady jak apoštol nějaké nové sekty. Neměl by mě někdo zavčas postavit ke zdi a odprásknout? Ale tu se mu nečekaně dostalo vysvobození. Někdo zaklepal a byl to žák z vedlejší třídy se vzkazem, že má jít okamžitě do sborovny.
 
-  
+</section>
+
+<section>
 
 Z Vídně přijedou nějací rakouští učitelé na předprázdninovou návštěvu brněnských škol. Za základnu si vybrali naše gymnázium, což nás nejen ctí, ale recipročně se nám tak v příštím školním roce nabídne i exkurze po vídeňských školách. Hosté přijedou už zítra večer, tedy v sobotu, a zajistí se jim ubytování v Internationalu a taky program, počínaje už nedělním dopolednem. Dopoledne s nimi pojedeme parníčkem na hrad Veveří a odpoledne se jim uspořádá seminář s nějakým odlehčeným, prázdninovým tématem, což zajistíme my, hlavy pomazané (čímž ředitel mínil sebe i svého zástupce). Účast všech na parníčkovém výletě a semináři povinná a Šebestiána tímto slavnostně pověřujeme, aby okamžitě zjistil, v jakém stavu je naše rekreační zařízení na přehradě a jestli je tím důstojným místem na uspořádání semináře, a pokud zrovna ne, co rychle učinit, aby se jím stalo.
 
@@ -203,7 +217,9 @@ A Šebestián ke svému zděšení shledal, že má vlastně radost, že tak m�
 
 A když jel na přehradu, setkal se před stanicí Jundrov s tramvají, v níž se právě Kryštof se Sárou vraceli z Mniší hory. Však bylo to setkání dočista na pytel, protože jeho účastníci se ani nestačili vzít na vědomí. Jo, nezahlédli se.
 
-  
+</section>
+
+<section>
 
 Tak je to, Sára si s Kryštofem moc ráda povídala. Kryštof se pohy­boval zřetelně o dvě tři patra výš než jeho pětiletí vrstevníci a zajímal ho jiný svět, než by jeho věku příslušel, a zvědavě strkal hlavu do úplně jiných dveří a snažil se nahlédnout do úplně jiné třinácté komnaty než naprostá většina pětiletých prcků. Povídat si o životě byla činnost, které propadal s frenetickou oddaností.
 
@@ -221,7 +237,9 @@ Rychle cosi nakoupila a netrpělivě stála ve frontě před pokladnou (a před
 
 Kryštof stál uprostřed kuchyně a měl zavřené oči a zakloněnou hlavu a rukama se držel za krk a křičel. Přiskočila k němu, chtěla ho sevřít do náruče, ale okamžitě se jí vytrhl a běžel ke zdi, opřel se zvednutými lokty, vyvrátil hlavu a zas křičel. A pak něčím náhle připomínal oběšence a pak se svezl na podlahu a zůstal tam už tiše ležet. Znova ho sevřela v náruči, připravena, že se jí zas okamžitě vytrhne. Ale nehýbal se. Žil, dýchal, srdíčko mu divoce tlouklo, ale nehýbal se.
 
-  
+</section>
+
+<section>
 
 Šebestián byl v té chatě všehovšudy jedenkrát v životě, a tak zapochyboval, jestli ji vůbec najde. Ale našel. Nu, stála pár metrů od přehradního jezera, kousek od přístaviště parníků, a vypadala hodně nevábně. To byl nejspíš taky nápad ředitele nebo jeho zástupce: zvenku chatu zohavit a ještě ji opatřit odpudivým nápisem: DERATIZAČNÍ SKLAD, HUBENÍ KRYS, MYŠÍ A ŠVÁBŮ! Zatím to fungovalo, dosud nebyla vykradena. Ale už brzo nadejde čas, kdy to jediné, co vzbudí ještě něčí zájem, bude právě jed na krysy!
 
@@ -229,7 +247,9 @@ Když chatu našel, byly tak dvě hodiny. Dvacet minut tam pak strávil prohlí�
 
 Když Šebestián vylezl z chaty, bylo asi tak pět minut před půl třetí, přesně to samozřejmě neví, protože ho nenapadlo podívat se na hodinky, a šel zas zpátky k tramvajové smyčce. Ale nedošel daleko a v poslední chvíli uskočil a proti němu splašená sanitka a za ní hlídkový vůz a ještě hasiči. A pak se už otočil směrem, kterým se všechno hnulo. Ale protože se otočil proti slunku, napřed neviděl nic, jen tu sluneční extázi.
 
-  
+</section>
+
+<section>
 
 David seděl se sluchátky na uších, přehraboval se v kotoučích ze zvukového archívu a hledal tam nějaký úctyhodný zvuk pro svůj feature, když se někdo dotkl jeho ramene a podal mu sklenici plnou nádherně průzračné tekutiny. David k tomu čichl, byl to džin, fantastická dávka džinu, která krásně těžkla v dlani. Otočil se a za ním stál Bua Bua, černý redakční stážista, s lahví v ruce a naznačoval mu, aby to rychle vypil.
 
@@ -243,7 +263,9 @@ Přesně tak, řekl Bua Bua, tak pohni! A vzal Davidovu sklenku a znovu ji nap
 
 Ne, řekl David. Hovno, řekl David. Postavil se, stál, díval se na Bua Bua a pak se znova posadil. Ze sluchátek visících přes opěradlo bylo teď zřetelně slyšet, jak dlouhou, prázdnou ulicí jde muž na vysokých chůdách.
 
-  
+</section>
+
+<section>
 
 Aniž si to pořádně uvědomoval, šel Šebestián stále blíž, až se octl v hloučku televizáků, a díval se přitom stále nahoru, a teprve teď poznal a bezpečně viděl, co tam je. Přes stráň vzhůru běžely obrovské sloupy vysokého napětí a v drátech mezi dvěma sloupy se cosi přeludně třpytilo, klenot, šperk, nasávající všechnu sluneční šťávu. Vysoko v drátech visela Zlatovláska, zachycená tam jak papírový drak.
 
@@ -251,7 +273,9 @@ Ale vždyť je to úplný nanebevzetí, řekl jeden z policajtů. Ale někdo, k
 
 A to už z televizního mikrobusu opatrně vycouval kameraman s kamerou na rameni a otočil se a zamířil na Zlatovlásku, a zatímco hasiči se tam v chumlu ještě radili, kameraman už vedle nich tančil televizní taneček a vyvrácený zobáček kamery se přitom zálibně otáčel a bral Zlatovlásčiny nohy pod sukní, jak tam visela vysoko nad hlavami televizáků, policajtů, hasičů. A Šebestián se na to chvíli nehybně díval a pak sebou škubl a prodíral se ke kameramanovi, a když stál až u něho, hlasitě sykl a kameraman se po něm otočil, a to byla chyba, kterou si škaredě odskákal.
 
-  
+</section>
+
+<section>
 
 Šebestián se právě vrátil domů, do velkého činžáku na Úvoze (čtvrté poschodí, byt dveře číslo 17) a cítil neskutečnou tíhu a nejraději by propadl tomu nejkatastrofálnějšímu scénáři, vždyť tohle už vůbec nebylo o životě, ale jen o nekonečných prohrách a na vše strany zatarasených cestách! Ale neudělal to, a místo toho zamířil dozadu do ložnice a tam rázně otevřel okno do zeleně na Špilberku, několikrát se zhluboka nadechl a pustil se do Pěti Tibeťanů. Pět Tibeťanů je „tajemství věčného mládí, uloupené kdysi tibetským mnichům a omlazující teď evropskou populaci řádově o patnáct roků“. Tak to stálo na obálce už kolikáté reedice knížečky napsané invalidním jazykem a v duchu sektářských brožurek, což v Šebes­tiánovi probouzelo štítivou nedůvěru, ale něco jiného je nedůvěra k duchu a jazyku a něco zas zoufalá potřeba omládnout o patnáct roků a vyrovnat se tak Zlatovlásčiným milencům a skoncovat už s jejími nevěrami, anebo je aspoň omezit na běžný našinecký standard.
 
@@ -265,7 +289,9 @@ Klidně pokračuj, já zas hned odcházím.
 
 Promiň, a nacpala košili zpátky do zásuvky a ve dveřích se ještě otočila a chtěla něco říct, ale neřekla.
 
-  
+</section>
+
+<section>
 
 Scenárista byl přízračně hubený mladíček, takže když si zapálil cigaretu, nečinilo mu potíže se za ni schovat. A pro někoho mohla mít ta hubenost i charakter odpudivé kachexie, ale to nebyl případ Zlatovlásky, která naopak přemýšlela o tom, jestli právě ta hubenost není tím mladíčkovým atributem, co roznítil její milostnou zvědavost. Scenárista byl ovšem zároveň dost ošklivý, což ještě podtrhl dlouhým culíkem, který mu slušel jak řezníkovi mitra. O ženských se v takovém případě říká, že jsou ošklivé jak noc, což se na mladíčka přece jenom nehodilo, takže Zlatovláska zvolila vhodnější příměr, ošklivý jak kanál. Když mu to ale jednou řekla, bylo hned vidět, jak ho tím ťala, to byla nepochybně scenáristova Achillova pata, a byl v tom okamžiku tak děsivě zdrblý, že to z ní vymáčklo okamžitou opravu: Tak ošklivý, až docela hezký! Ale ani to ho nijak nenadchlo. Ach, ty můj malý hajzlíčku, pomyslela si, přece ode mě nečekáš, že tě budu považovat za mladičkého Apollóna anebo Leonarda DiCapria.
 
@@ -277,13 +303,17 @@ Buď tak hodnej a neříkej mi zlato. Anebo ti začnu říkat brouku.
 
 Ale seš přece Zlatovláska, takže říkat ti Zlato je podle mě docela legitimní. Kdežto říkat mi brouku, to už je přece o něčem docela jiném. A propos, Zlato, jestlipak víš, že tvůj muž ztloukl minulej pátek na přehradě mýho kameramana? A ztloukl ho pod stožárem vysokýho napětí s tou tvou figurínou. Muselo se kvůli tomu na chvilku přerušit natáčení.
 
-  
+</section>
+
+<section>
 
 Několik týdnů před právě vylíčenými událostmi a tedy ještě před volbami a zrovna právě v den velkých brněnských předvolebních mítinků dostal Kryštof zase za úkol přepravit Miloše do Žabovřesk na zahrádku. Jenže když se Miloš zatvrdil, tak s ním člověk nehnul. A teprve až po nadlidské námaze (Miloš se změnil v ostnatou kouli a nekomunikoval) ho Kryštof nacpal do nákupní tašky a vyrazil s ním do ulic. S klíčem kolem krku a s Milošem v tašce seběhl po Úvoze, ale dole, na Mendlově náměstí, narazil na lidovou veselici, předvolební mítink lidovců, jehož zásluhou celá doprava ochrnula a prostor opanovala dechovka. A to jsme ještě nezmínili velký teplovzdušný balon, jenž teď právě stanul nad chrámem Nanebevzetí Panny Marie a zvolna se přesouval nad náměstí. Balon měl podobu obrovského šťavnatého zahradního plodu a sliboval prostý a klidný ráj všem lidoveckým voličům.
 
 Kryštof pochopil, že tudy neprorazí, a otočil se na podpatku a zamířil do města rozhodnut, že to zkusí do Žabovřesk po jiné tramvajové trati. Ale když už byl na dohled nádraží, z Masarykovy právě přijížděl Zemanův Zemák a ze všech stran už táhly davy jeho přívrženců a strhly Kryštofa s Milošem mezi sebe a Kryštof držel tašku s ježkem nad hlavou a vyskakoval, ale ve chvíli, kdy se už kolem něho chystal sevřít svěrač lidských těl, Kryštofova ruka poklesla a Milošovy ostny se okamžitě zabořily do břich a zad levičáckých příznivců a ti s klením odskočili a Kryštof směl projít jak Mojžíš Rudým mořem.
 
-  
+</section>
+
+<section>
 
 A v ten samý den předvolebních mítinků se scenárista taky poprvé setkal se Zlatovláskou. A stalo se tak na Kobližné. Scenárista si tam právě kupoval v pouličním stánku tvarohový burek, a jen co se do něho hladově zakousl, uviděl Zlatovlásku a málem se tím burkem udávil. Vždyť scenárista, jak už tady bylo řečeno, nebyl jenom scenáristou, nýbrž si měl svůj televizní seriál i režírovat a obsazovat si role, a zaměstnával se ztělesňováním svých postav natolik, že ať se octl kdekoliv, byl stále ve střehu. A Zlatovláska, již teď uviděl, byla právě ten typ, co dosud marně hledal: atraktivní a přitom už na první pohled naprosto přirozená, zřetelně vystupující ze všech tváří kolem, okouzlující kráska, v níž však bylo zároveň cosi tak lidsky dojemného, až to člověka bralo za srdce, i když třeba ani nebyl člověkem, ale jen jedním z kamenných mamlasů, vklíněných do fasády měšťáckého paláce na náměstí Svobody, což ostatně vůbec nebyl scenáristův případ.
 
@@ -333,7 +363,9 @@ Máte pravdu, usmál se smutně scenárista, to už není z Kundery.
 
 Ale je, usmála se zas vesele Zlatovláska, je to z Kundery. Potřebovala jsem si vás jenom prosondovat. Smíte mi vyprávět svůj scénář! V divoké nivě na břehu Oslavy.
 
-  
+</section>
+
+<section>
 
 Když Kryštof s Milošem opravdu v poslední chvíli vyklouzli ze sevření davu kolem Zemanova Zemáku, seběhli do podchodu před nádražím a svezli se zas eskalátorem ven a přeběhli přes Masarykovu na Kapucínské náměstí se záměrem dostat se tak přes Zelný trh na Šilingrák, a dále že se už uvidí. Ale Zelný trh byl bohužel taky neprůchozí, protože tam právě zaujali bojové pozice komunisti, jejichž šéf, soudruh Grebeníček, chodil teď dokolečka po roubení kašny a promlouval ke všem světovým stranám: Vytýkají socialistické společnosti, že stavěla prý megalomanská vodní díla, ale díky těm socialistickým přehradám máme tu dnes vůbec ještě světlo, zatímco oni, všimněte si, umí tak leda tunelovat, umí stavět akorát tunely a ty, jak známo, produkují zákonitě pouze tmu. A pokud se dnes ocítáme v situaci, že se musíme rozhodnout mezi světlem a tmou…
 
@@ -341,7 +373,9 @@ Zelný trh byl našlapán starými lidmi, tou Grebeníčkovou domobranou, a ti 
 
 A oceňme teď Kryštofovo dobré srdce, o němž už tady myslím byla řeč, a všimněme si, že proti těm starým lidem se rozhodl nepoužít Milošových ostnů a bodel, jako například proti Zemanovým příznivcům, a po krátkém zaváhání to vzdal, vzdal svou cestu na Šilingrák a slezli s Milošem zpátky přes Kapucínské náměstí na Masarykovu ulici.
 
-  
+</section>
+
+<section>
 
 Rekreační televizácká chata při řece Oslavě. Služební řidič, který je tam přivezl, si teď vybalil rybářský prut a po velkých balvanech přeběhl na druhý břeh a zmizel v divoce kvetoucí nivě. Scenárista se Zlatovláskou se chvíli dívali na zpěněnou řeku a pak si z chaty vytáhli křesla a stolek a scenárista otevřel lahev rulandského modrého. Ještě cestou sem se Zlatovlásce mohlo třeba i zdát, že kontaktáž bude už co nevidět úspěšně překročena do defloráže, ale po celý podvečer a večer se pak už nestalo nic, co by to napovědělo. O několik dnů později samozřejmě budeme svědky (anebo si to možná i necháme ujít, nemusíme být u všeho) Zlatovlásčina a scenáristova útěšného sblížení, teď však měla Zlatovláska především seznat, že scenárista je workholik a že ze všech neřestí, vášní a závislostí preferuje na prvém místě práci a tohle zde je setkání ryze pracovní.
 
@@ -359,7 +393,9 @@ A nespálím se tam na škvarek?
 
 Viděla jste někdy vlaštovky na drátech? Co se nestane vlaštovkám, nemůže se stát ani vám. A pokud vůbec zůstanu u tohoto nápadu, tak do těch drátů nakonec stejně pověsíme jenom figurínu, věrně imitující váš vzhled. A kromě toho, nebudou to skutečné stožáry vysokého napětí, ale jen televizní kulisy. Atrapa je totiž vždycky přesvědčivější a svým způsobem vlastně skutečnější než skutečnost. Protože náš skutečný svět, račte vědět, je už jen čím dál nedomrlejší kopií toho televizního a dnes už všichni na světě jsme televizními diváky, a už brzy nadejde čas, kdy všichni budeme jen televizními postavami. Televizní obrazovka, má krásná dámo, to je ta společná postel, na níž se jednou všichni setkáme, jak o tom kdysi snila Bardotka.
 
-  
+</section>
+
+<section>
 
 Nakonec se Miloš v nákupní tašce nejen uvolnil, ale trochu sebou dokonce i pleskl jak treska na pobřeží, aby tak Kryštofovi vyslal signál, že už je ochoten komunikovat. Ale ten na signál vůbec nere­agoval. Musíme to samozřejmě brát _cum grano salis_, protože Miloš nebyl zrovna žádný mluvící ježek, a veškerá komunikace s ním pozůstávala z čehosi, co byste považovali za hodně ubohé a k čemu byste se vy nikdy nepropůjčili, ale o tom se teď nebudem vybavovat.
 
@@ -367,18 +403,24 @@ Kryštof s Milošem sestoupili zpátky na Masarykovu, ale tam se to mezitím pr
 
 Ale než se vzedmula další vlna skandování, pan profesor si dalším gestem vyprosil ještě strpení a zvedl mikrofon ze stojanu a začal zpívat:
 
-  
+</section>
+
+<section>
 
 _Když mi dáš pac  
 To naše paci paci  
 Všechno změní  
 Po dlouhé noci přijde rozednění…_
 
-  
+</section>
+
+<section>
 
 A Kryštof s Milošem, kteří se tam motali lidem pod nohama v neustálém nebezpečí ušlapání, občas přece jenom v nějakém průzoru něco zahlédli, ale to hlavně díky tomu, že zpívající pan profesor lehounce levitoval, vznášel se při zpěvu čím dál výš nad podiem a nad hlavami, až jednu chvíli vyletěl jak saranče hodně vysoko a brnkl o morový sloup.
 
-  
+</section>
+
+<section>
 
 Jestli vám dobře rozumím, tak můj život televizní postavy skončí vlastně už hnedka na začátku vašeho televizního románu, skončí figurínou v drátech vysokého napětí. To si teda asi moc nezahraju. Jak to tak vypadá, tak nakonec jen posloužím jako mustr pro výrobu té figuríny.
 
@@ -398,7 +440,9 @@ Moc se omlouvám, to voko ze mě tak vyjelo. Však pokračujme. Nevidí ho samoz
 
 Kryštofovi s Milošem se nějak podaří vyklouznout z náměstí Svobody do Běhounské ulice a tudy se ubírají k mnohem skromnějšímu Jakubskému náměstí, které působí (navzdory monumentálnímu gotickému chrámu a desítkám zaparkovaných aut) dost pustě. Ale nakonec dostanou příležitost přesvědčit se, že i tady se přece jenom cosi děje. Mezi zdí chrámu a neurvalým shlukem zaparkovaných aut, na plácku o něco větším než pánvička na volské oko, stojí dva agitátoři Unie svobody a proti nim sedí na takové rozkládací stoličce, jaké používají hlídači parkovišť, jediný jejich posluchač. A ti dva agitátoři se střídají ve výkladu volebního programu Unie, a když už začínají uvadat, ten posluchač je povzbuzuje, ještě chvíli vydržte, broučkové, myslím, že vás budu volit. A mezi agitátory a posluchačem kráčejí po dlažbě tři holubi a mechanicky trhají hlavičkami. Miloš s Kryštofem okamžik postojí, přihlížejí (Miloš vysune z tašky fuňavý rypáček) a pak se zvolna loudají dál, teď přes náměstíčko ke škole a tady nahlédnou do Jakubské ulice, jestli se tudy dá proklouznout a pokračovat domů, zpátky na Úvoz…
 
-  
+</section>
+
+<section>
 
 Přiznám se vám, že to nemám ještě všechno pojmenované, myslím postavy v tom televizním románě, pojmenovávání postav mi odedávna činí potíže, a nakonec to řeším tak, že při vymýšlení křestních jmen sáhnu po kalendářích a při příjmeních zas po telefonních seznamech, důvtipné, co. Takže tomu klukovi bychom zatím třeba mohli říkat…
 
@@ -434,7 +478,9 @@ Ale já mluvím o svém synovi.
 
 Scenáristův řidič se rozmrzele vrátil s prázdnou (buď měl špatné rybářské náčiní, anebo to byl špatný rybář), a protože rozhodně nechtěl rušit (scenáristovo vyprávění televizního scénáře, to byla mše, k jejímuž pozdvihování a přijímání se zrovna teď necítil povolán), posadil se na práh chalupy, položil vedle sebe prut, podběrák a lahev se žížalami a vytáhl krabičku zápalek, vysypal ji na hromádku a vybral si z ní šest sirek a těm neobratně odlomil hlavičky, položil je stranou a začal hrát starou japonskou hru, které se v zemi vycházejícího slunce říká _desi_ a kterou ho nedávno naučil kuchař japonského televizního režiséra.
 
-  
+</section>
+
+<section>
 
 Myslím, že bych už měla posbírat své saky paky, míní Zlatovláska v jedné z děr scenáristova vyprávění.
 
@@ -442,7 +488,9 @@ Ale vždyť tady přece přespíme, Zlato. Na tom jsme se přece hned na začát
 
 Na jakým začátku, brouku? podivila se Zlatovláska. Podle mě ještě vůbec nic nezačalo a taky nevím, jestli kdy začne. Náš vzácný čas jste probendil povídáním jakési dost příšerné historky, z které mám nýčko leda ujímání a plynatost střevní, takže jsem stejně k milostné nepotřebě.
 
-  
+</section>
+
+<section>
 
 Když vjížděli do města, obloha už potemněla, ale když přijeli na náměstí Svobody, bylo poseté papírky, které svítily jak bříška leklých rybek. Řidič zastavil, vylezl a zvedl jeden z lístků. Byl na něm obrázek pana profesora, přísný úsměv pod bílými vlasy a nad bílým knírkem.
 
@@ -481,3 +529,5 @@ O tom mi tedy musíš důkladně povykládat.
 Ale teďka už ne. V 10.12 mi jede jedenáctka ze stanice na České.
 
 Tak si ten sen zapiš, připomněl Šebestián, jinak ti ho sprcha dočista vymaže. Ale to už bylo pozdě, protože Zlatovláska už vstou­pila do sprchy a sen byl v trapu.
+
+</section>

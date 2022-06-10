@@ -3,6 +3,8 @@ title: 2\. DÍL Vzhůru na Sibiř
 contentType: prose
 ---
 
+<section>
+
 David si napustil vodu do vany a uhnízdil se tam a celé tělo mu prostoupila nevýslovná slast, ale jen co s potěšením zvrátil hlavu a pohlédl do stropu, uviděl bobtnající puchýř. Soused nad ním měl vadnej odtok, ale nedalo se s tím nic dělat, protože měl taky psa, co na jedno cvaknutí urve celou ruku, a dělá to k smrti rád.
 
 Ani večeře nebyla zrovna k popukání. Měli kapustu a David s Kryštofem ji nenáviděli, ale David to nesměl dát znát, aby nenarušil Kryštofovu výchovu, a Kryštof zas, s tím svým vyvinutým smyslem pro fér hru, mohl jen dělat, že neví, že David to nesmí dát znát.
@@ -91,7 +93,9 @@ Dali si ještě jednu skleničku a šli spát. V ložnici se ještě jednou dr
 
 Už běž taky spát, ty starý hloupý voko, řekl mu David. Už nic nebude.
 
-  
+</section>
+
+<section>
 
 Tentokrát se Davidovi nezdálo nic, aspoň nic reprodukovatelnýho, a u snídaně se zas sešli v plné sestavě, posíleni navíc ještě Zlatovlásčiným bratrem Šebestiánem, který si pospíšil, aby Davida ještě zastihl. Ale mezi náma, nemusel vůbec tak spěchat, vždyť David měl dneska (ale taky ještě zítra) náhradní volno. A Zlatovláska zas měla až odpolední ordinaci. Volno neměl akorát chudák Kryštof, který ve svých pěti letech chodil do něčeho, čemu Šebestián opovržlivě říkal „zvláštní škola“, a co ve skutečnosti bylo prvním stupínkem na cestě vzhůru, k budoucí přináležitosti k vybranému společenství Mensy, klubu jedinců vybavených zvlášť vysokým IQ. Byla to spartansky tvrdá předškolní výchova, kde se Kryštof učil v intenzivních kurzech angličtině, němčině, španělštině a práci s počítačem a internetem a hrál tam samé pečlivě vyšolichané hry, cílevědomě rozvíjející jeho kreativitu. Šebestián přijel se svým malý renaultem a slíbil, že pak Kryštofa do té „zvláštní školy“ hodí, takže mohli při snídani ještě v klidu posedět. A tak došlo taky na Davidův sen.
 
@@ -119,7 +123,9 @@ Takže dneska, nabídl David okamžitě.
 
 A při tom taky zůstalo. A snídaně se rozešla.
 
-  
+</section>
+
+<section>
 
 Přepravní firma Odysseus měla své sídlo za Bystrcem, přímo u Brněnské přehrady, a její obrovský firemní štít se zrcadlil v přehradním jezeře.
 
@@ -163,7 +169,9 @@ Buďte hodni na _desi_, jo?
 
 Budeme, ujistil ho Šebestián, už teď hluboko v srdci něžný cit chovám pro _desi_.
 
-  
+</section>
+
+<section>
 
 Cestou se ještě stavili pro Miloše, Davidova závozníka. A je na čase ho představit. Miloš byl skutečný hromotluk, ale zároveň v něm bylo cosi nevýslovně křehkého, jako ten pel na motýlích křídlech. Ale právě to vzbuzovalo u Šebestiána nedůvěru. Šebestián si totiž dlouho a pracně tříbil svůj malířský vkus a nebyl teď ochoten mrzačit si ho tak kýčovitými paradoxy: hromotluk s duší děvčátka! Dobře, hochu, nebudu si tě radši pouštět moc k tělu. Což se, jak záhy uvidíme, snadno řekne, ale hůř provede.
 
@@ -173,7 +181,9 @@ Zlatovláska, začal David, si dědečka nepamatuje, jak by taky mohla, ale ří
 
 Správně, Davide, já si ho sice taky moc nepamatuju, protože když v létě v pětačtyřicátým zemřel, bylo mi teprve šest roků, ale tohle bezpečně vím: byla to veliká postava, možná snad titán, jestli mi rozumíš. Do posledního dne žil na plný pecky a vypadalo to, že umí snad všecko: maloval drobná zátiší a miniaturní portréty, ale z toho i monumentální plátna a rozměrné fresky, sochal ze dřeva, z kamene, z hlíny, ze sádry, z bronzu i z ocele, lemury a bazilišky do městské kašny, Vrchlického a Havlíčka do parků, pomníčky legionářů na náměstí, kříže a báně a korouhvičky na věže, ale i oltářní plastiky, křtitelnice a sakrální nádoby, busty radních a veliká laokoonská sousoší, tepané mříže a dekorativní vrata, ale uměl i dózy na biskvity a třeba i všelijaké fantastické flakóny pro nějakou kosmetickou fabriku, portréty továrníků a jejich manželek i divoké výjevy z bakchanálií, líbezné i pohoršlivé ženské i mužské akty, skandální karikatury do nedělních příloh, šperky do večerních toalet, křišťálové lustry i židovské svícny, včelíny v podobě tančících prasnic a zasmušilých goril i odhozených obřích hlav, keramické soupravy i filmové plakáty, ale taky plakáty na zemědělské výstavy a nebudeš mi věřit, ale dokonce zkonstruoval i obojživelný velociped pro celou rodinu se čtyřmi dětmi. Byl to malíř, sochař, grafik, ale i platnéř, pasíř, restaurátor a příležitostný architekt, živoucí Leonardo da Vinci a tvůrce svého vlastního gigantického vesmíru, ale navíc i neskonale společenský tvor, neboť v tom jeho velikém domě se každým rokem pořádaly soukromé plesy a byla to událost, na kterou přijížděli předtanečníci z Vídně, a dědeček z přítomných sestavoval proslulé živé obrazy a fotografoval si je a dělal z nich série famózních pohlednic. Kdežto jeho syn, tedy můj otec Racek, byl už jen obyčejnský malíř a sochař a nic víc. A hle, jak ten úpadek rychle pokračuje, já… ne, o mně už radši nemluvme, končím. Ale se svou sestrou, se Zlatovláskou – načal Šebestián zas jiné téma – se musím taky dohodnout, co dál s dědečkovým domem. Jeho údržba hltá prachy a upřímně řečeno, každý rok musím prodat jeden otcův nebo dědečkův obraz, abych to vůbec utáhl, ale neumím si představit, že bychom ten dům prodali nebo pronajali. Má totiž své tajemství, kvůli kterému s ním zatím není možno jen tak volně nakládat, však se to taky jednou dozvíš.
 
-  
+</section>
+
+<section>
 
 Dědečkův veliký dům s obrovskou zahradou stál na výspě nad Královým Polem, na výspě, která za dědečkova života vystupovala z moře zeleně, ale teď se k ní už dávno doplazila všepohlcující městská aglomerace, i když tady především v podobě bezpočtu ohrad a jakýchsi bezprizorných skladů, autobazarů a šrotišť.
 
@@ -205,14 +215,18 @@ Však k tomu moc nechybělo, usmál se Šebestián a ukázal na stěny, jež b
 
 A šli tedy širokou chodbou, kam už nikdo, jak přiznal Šebestián, nevstoupil drahně let, a světlo zde bylo možná už trochu povadlé, ale vzduch stále svěží, ani závan sklepní či dokonce hrobové zatuchlosti. A občas se na zdi objevil nějaký překvapivý výtvarný motiv, takže David byl v pokušení zastavit se a prohlédnout si ho (přísahal bych na duši své nebožky matky, vykřikl David přidušeně, že tady někdo ilustroval Skácelova čtyřverší! ale ta chodba je přece stará jak Metuzalém, jak se tady ten motiv vzal? ale tohle je jasně basreliéf k básni:
 
-  
+</section>
+
+<section>
 
 _v hedvábné chvíli večerní  
 harfy jak kolmé splavy ční  
 traviči studní studny tráví  
 a modře ze sna křičí pávi),_
 
-  
+</section>
+
+<section>
 
 ale Šebestián ho stále popoháněl a pak David pochopil, že už prošli pod zahradou a jsou teď v domě, totiž pod domem, a zarazil se, ale Šebestián mu vysvětlil, že celý prostor, v němž se nacházejí a do něhož ještě dále vstoupí, je oddělen zvukovou bariérou od vlastního domu a že ta izolace je tak důkladná, že tady můžou klidně skákat, tančit, jančit, zpívat, křičet, a v domě je nikdo ani nezaslechne. A pak už stoupali schodištěm, umístěným v jakémsi širokém, objemném tubuse.
 
@@ -252,7 +266,9 @@ A pak už Miloš, dědeček a David, objímajíce se kolem ramen, vešli dovni
 
 Davide, Miloši, dědečku! zakřičel lítostivě. Ale vevnitř už bylo přiveselo a nikdo ho neslyšel.
 
-  
+</section>
+
+<section>
 
 Několik týdnů po právě vylíčených událostech, totiž v neděli 9. srpna 1998, sestoupil Šebestián ze svého ateliéru do kuchyně a oslovil tam dědečka a okamžitě to slízl nepočítaně.
 
@@ -280,7 +296,9 @@ Na to stejně nepříjdete, uklidňuje je Zlatovláska. A v závěsu za ní je
 
 (A už jsme vám pověděli, že Bua Bua vlastně není žádné původní nigerské jméno? A že vzniklo z Bois Bois a francouzsky znamená Les Les?)
 
-  
+</section>
+
+<section>
 
 To prvé, co Adam udělal, jakmile zjistil, že se tady ještě nějaký ten pátek zdrží (totiž až do plesové sezóny, chtěl si tady zopakovat aspoň jeden z těch velkých a nádherných předválečných plesů, které rovněž tenhle dům proslavily), takže to prvé, co udělal, když se tady znova usadil, bylo, že přesvědčil všechny, aby se sem za ním přistěhovali.
 
@@ -294,7 +312,9 @@ Ale jaktože Šebestiána, Zlatovlásku nebo Davida už dávno nenapadlo se sem 
 
 Přátelé mí nejmilejší, miláčkové mí vachrlatí, tohle bylo vždycky mým snem a kvůli tomu jsem ten dům vlastníma rukama kdysi vystavěl! Chtěl jsem ho naplnit přátelskou radostí jak měch dobrým vínem! Jsou zde tři ateliéry, jeden sklad na blanické rytíře, dva depozitáře na obrazy a sochy a pět bytů a všechny chodby k nim, jakož i vchody, východy a schodiště se míjejí s těmi sousedními, aby tam nedošlo k jedinému zkřížení, jedinému propojení, jedinému setkání, pokud po něm právě neprahnete. Ale zároveň se zas naprosto všechny chodby, vchody, východy a schodiště potkávají, protínají, ba i prostupují, kdykoliv se vám po něčem takovém jen zasteskne. Inu, jsou to byty tak dokonale izolované, že v každém z nich můžete prožít celý život s pocitem posledního člověka na zemi, ale jakmile dáte přednost opačnému extrému, můžete si tam pořád žít jako na jarmarku anebo na hlučném náměstí. Je to dům, co v sobě spojuje přednosti hlubokého osamění i veselé pospolitosti, dům pro zasmušilé introverty i družné kumpány, v němž si každý může být buď svou křišťálovou studánkou, anebo součástí nejrušnějšího úlu. A to jsem vám ještě neprozradil, že je to taky dům skládačka, která se dá po chuti dál rozšiřovat. Zatím je zde pět bytů, ale může jich být jednou padesát. A jednotlivé byty jsou zároveň tak totožné, aby se mohly jak kostky na sebe napasovat, ale zároveň tak rozmanité, aby jeden z vás každý měl pocit, že jsou mu šité na míru. A možná, že můj dům je z celého mého díla ten vůbec nejlepší majstrštyk! A tak vítejte v prostorách duše mé, přátelé!
 
-  
+</section>
+
+<section>
 
 V pondělí, ve středu a ve čtvrtek má Kryštof tu svou školu pro zázračné děti, ale úterky a pátky, to jsou dny, jež tráví s dědečkem Adamem. V těch dnech jsou nerozlučná dvojka, couravý tandem. Bloudívají křížem krážem po městě a Kryštof dědečka (ve skutečnosti ovšem svého prapradědečka, však si rozumíme) zasvěcuje postupně do všeho, čím se dnešní Brno, potažmo celý současný svět, liší od toho, jejž Adam ráčil opustit před třiapadesáti lety.
 
@@ -314,7 +334,9 @@ Vidíš a v těchto místech stával takovej velkej kiosk a říkalo se mu H�
 
 Ale protože Kryštof s Adamem věnují pozornost docela jiným záležitostem, nevšimnou si vůbec, že jsou už nějaký čas sledováni. Ale mezi náma, je to sledovačka tak obratná, že by si jí sotva všimli, i kdyby měli oči na stopkách. A tak jdou stále se svými pronásledovateli v patách a teprve na Mendláku se rozhodnou přejít ti, co je dosud jenom šmírovali, k akci.
 
-  
+</section>
+
+<section>
 
 Adam s Kryštofem směřují právě ke stánku s pečivem, že si tam koupí tamější specialitu, veliké, křupavé, kulaté housky plněné povidly, když jim zkříží cestu ženština s oříškovýma očima. A v okamžiku, kdy se míjejí, pohlédne oříšková dáma Adamovi zblízka do očí a zeptá se: Tak co, řekni, chceš mě, Adame Obskočníku?
 
@@ -356,7 +378,9 @@ Myslím, že budu mít na paměti všechny tvé internetové rady. Ale teď už 
 
 Kryštof si povzdechl a šel si taky po svých. Ale když už byl na rohu Pekařské ulice, ještě se mimoděk ohlédl a uviděl, jak Adama, když se chystal sbalit oříškovou dámu, sbalili v tu ránu a dosti surově dva maníci a odvlekli do přistaveného vozu. Kryštof propadl panice a pokoušel se rychle splašit nějaké policajty, což je v Brně obtížnější, než ulovit holýma rukama na Sumatře tygra. Ale když konečně nějaké našel a překotně jim vylíčil, jak Adam vlítl do pasti, v níž návnadou byla oříšková děvka, stalo se mu zas to, co se mu často stávalo, když se pokoušel dospělým lidem říct něco závažného a podstatného. Bez rozpaků ho poslali někam, kam se sic vchází malou dírkou, ale je tam o to větší pláč a skřípění zubů.
 
-  
+</section>
+
+<section>
 
 Když ti dva řízci cpali Adama do auta, málem mu zlomili nebo snad vykloubili pravou ruku.
 
@@ -378,7 +402,9 @@ Mám tomu rozumět tak, že letíme na Sibiř? zeptal se Adam, jenž měl s tou
 
 Tam, kde přistaneme, vás čeká velká uvítací hostina pod širým nebem. Stoly jsou už rozestavěné, bečky přikutálené, plechy rozžhavené, tetřívci naporcovaní, jeseteři vykuchaní, telecí hlavy v kořeněných nálevech a hlavy uvítací delegace obráceny k obloze. Ale mezitím vezměte prosím zavděk touhle prostou stravou a já vám přitom prozradím aspoň drobet z toho, co byste měl vědět. A kuchař se posadil naproti Adamovi a sundal si tu velkou bílou čepici, tu kulinářskou mitru, a usadil ji na vedlejším sedadle, ale pořád ji tam přátelsky drbal za ušima. A pak už položil vedle Adamova talíře maličkou fotografii a Adam, jak se nad ní hluboce, přehluboce sklonil, málem se zadusil pelmeněm. Kuchař ihned vyskočil a bušil mu do zad.
 
-  
+</section>
+
+<section>
 
 Adam tu fotografii samozřejmě velice dobře znal. A bodejť by ne, když ji v těch dávných, pradávných, a tady by se už hodilo říct dřevních časech míval zvětšenou a zarámovanou na zdi svého starého ateliéru. A kdykoliv se tenkrát před ní někdo zastavil, dostalo se mu velice neurčité odpovědi, že je to momentka z Ruska, z Adamovy legionářské anabáze. Nicméně momentka dost neobvyklá: stál tam na pozadí jakéhosi zpustlého stavení a jeho pravé ruky se přidržoval chlapec a levé zas děvčátko. To jsou děti bělogvardějského oficíra, u něhož jsme byli nějaký čas ubytováni.
 
@@ -422,7 +448,9 @@ Hledám nové možnosti enkaustiky, přiznal se Adam. Malířství mě nakonec z
 
 A Mucha byl téhož názoru. A jen pro hnidopichy, kteří bazírují na každém detailu, teď dodejme, že tento rozhovor se odehrával v Adamově ateliéru v Králově Poli někdy v květnu 1932. A když si teď Adam na něho vzpomněl (v pátek 14. srpna 1998 na palubě letadla letícího na Sibiř), zvolna promnul tu vzpomínku jazykem na patře a zajedl soustem pelmeně.
 
-  
+</section>
+
+<section>
 
 Adam dojedl pelmeně, utřel si hedvábným ubrouskem mastnou bradu a navýsost pozorně se zahleděl na svého společníka. A koho si myslíte, že jste unesli? zeptal se pobaveně.
 
@@ -468,14 +496,18 @@ A což, taky jste prověřili jeho totožnost?
 
 Jak jinak. Matička Rus je naprcaná bělice a má břicho plné lžicarů. Před měsícem, pokračoval kuchař, v pátek 17. července, byly konečně v Petrohradě slavnostně pohřbeny ostatky zavražděného cara. A tak nastal čas carevičů…
 
-  
+</section>
+
+<section>
 
 __Něnastnyj děň potuch, něnastnoj noči mgla  
 Po něbu stěletsa oděždoju svincovoj  
 Kak prividěnije, za roščeju sosnovoj  
 Luna tumanaja vzašla…__
 
-  
+</section>
+
+<section>
 
 Adam se zahleděl z okýnka letadla. Ale neviděl nic než nadupané sloje mraků, které mu připomněly hromady polštářů navršené po celém lůžku v ložnici jeho matky Laury, když ji tam jednou, sedmiletý, zastihl ve velice choulostivé situaci. Bože můj, zaúpěl Adam, jak ještě dlouho za hrobem mě bude tahle raná vzpomínka z dětství týrat?!
 
@@ -483,7 +515,9 @@ Prosím? zeptal se kuchař.
 
 Šebestián stál v úzkostné hrůze před bílým, neposkvrněným plátnem, zažívaje už zase ten děsivý pocit, že se ho nedokáže dotknout štětcem, a to navíc ještě umocněno poznáním, že je nejspíš už poslední na světě, kdo ještě takhle idiotsky načíná obraz! Takto stávali před svými plátny jeho otec i jeho děd, ti nesmírně výkonní Obkročníci jak na plátnech obrazů, tak na plátnech prostěradel! To strašlivé vědomí rodové posloupnosti: vzadu se tyčil obrovský talent dědy Adama, hned pod ním se krčil o půl talentu menší Šebestiánův otec Racek a pod ním zas o dalšího půl talentu menší Šebestián! A na Šebestiánova syna, televizního scenáristu, zůstal už z rodové hřivny akorát králičí bobek. Šebestián opustil plátno a šel k oknu a díval se zamyšleně do zahrady za domem a napřed vůbec nevnímal, co se tam děje, ponořen stále ještě do svého duchovního martyria. Ale pak uviděl dva jezdce, kteří kroužili po zahradě. A nebylo nejmenších pochyb: Miloš a Zlatovláska!
 
-  
+</section>
+
+<section>
 
 Ale tady je třeba cosi na vysvětlenou doplnit. A vraťme se za tím účelem o několik týdnů nazpátek, do onoho dne, kdy je děd Adam poprvé seznámil se svým svatováclavským vojskem. Když se pak pokusili dostat zas blanické rytíře zpátky do jejich půdního tezauru, zjistili, že už to docela dobře nejde. Dva jezdci jim stále přebývali. Všichni to důvěrně známe: jednou vybalený kufr se pak už nikdy nedá zpátky nabalit! A tu udělal Adam něco překvapivého: z těch dvou koní prostě sundal jejich jezdce a ty dva opěšalé rytíře celkem bez obtíží zasunul pod nohy uskladněného svatováclavského vojska a dva koně bez jezdců vyvedl zas do zahrady.
 
@@ -499,7 +533,9 @@ A hned po Kryštofovi se koňmi nejvíc nadchl Miloš. Poté co prakticky ze dn
 
 Přesvědčím vás, že na Adamových ocelových ořích to vůbec není nebezpečné, nabízel se Miloš tak dlouho, až jednoho podvečera vysadil Zlatovlásku do sedla. A to byl právě ten podvečer, jejž jsme už zmínili. A tak jsme zas zpátky tam, odkud jsme odběhli.
 
-  
+</section>
+
+<section>
 
 Šebestián opustil plátno, šel k oknu do zahrady a uviděl tam dva jezdce a nebylo nejmenších pochyb, že to jsou Miloš a Zlatovláska. A všimněme si hned na začátku těch krasojízd, že tomu Zlatovláska velice rychle přišla na chuť. A přitom už na první pohled (ano, na první pohled ze Šebestiánova ateliérového okna) bylo zřejmé, že jezdit tou obrovskou Adamovou zahradou plnou nejrozmanitějšího stromoví není vůbec nic snadného. A přece Miloš se Zlatovláskou vytáčeli na těch koních nádherné ležaté osmičky, symboly věčnosti, ale i spirálovité kroužky kolem košatých jabloní a nejrůznější vlnky i meandry keři rybízu a angreštu a Šebestián na to hleděl s čím dál větším potěšením (vždyť s jakou jistotou projížděli mezi habry, obtáčeli platany, těsně míjeli duby a tančili kolem lip a kaštanů!), a úplně tak zapomněl na své bílé plátno i prohlubující se krizi výtvarného umění na konci tisíciletí.
 
@@ -518,3 +554,5 @@ Ale sotva to dořekl, v tu chvíli (i pohleďme, jak záhadně fungují pochody
 Za hory, za doly, ať jsi, Davide, kdekoliv, teď bys měl otočit ka­mion a uhánět zpátky, dřív než ti narostou parohy!!
 
 A pak už Šebestián svolal rodinnou poradu.
+
+</section>

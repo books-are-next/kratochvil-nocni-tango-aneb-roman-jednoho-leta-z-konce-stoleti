@@ -32,16 +32,16 @@ tocBase:
         title: Osoby, místo, čas
         hiddenTitle: true
       - link: nocni_tango_007.html
-        title: "1. díl V\_Brně na Kolišti"
+        title: "V\_Brně na Kolišti"
         hiddenTitle: false
       - link: nocni_tango_008.html
-        title: 2. díl Vzhůru na Sibiř
+        title: Vzhůru na Sibiř
         hiddenTitle: false
       - link: nocni_tango_009.html
-        title: 3. díl Křik Mínótaurův
+        title: Křik Mínótaurův
         hiddenTitle: false
       - link: nocni_tango_010.html
-        title: 4. díl Noční tango
+        title: Noční tango
         hiddenTitle: false
     isSection: true
     listType: plain

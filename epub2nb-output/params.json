@@ -96,8 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Citát"
+            "title": "Citát",
+            "children": []
           },
           {
             "filename": "nocni_tango_006.md",
@@ -109,8 +109,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Osoby, místo, čas"
+            "title": "Osoby, místo, čas",
+            "children": []
           },
           {
             "filename": "nocni_tango_007.md",
@@ -122,8 +122,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "1. díl V Brně na Kolišti"
+            "title": "V Brně na Kolišti",
+            "children": []
           },
           {
             "filename": "nocni_tango_008.md",
@@ -135,8 +135,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "2. díl Vzhůru na Sibiř"
+            "title": "Vzhůru na Sibiř",
+            "children": []
           },
           {
             "filename": "nocni_tango_009.md",
@@ -148,8 +148,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "3. díl Křik Mínótaurův"
+            "title": "Křik Mínótaurův",
+            "children": []
           },
           {
             "filename": "nocni_tango_010.md",
@@ -161,8 +161,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "4. díl Noční tango"
+            "title": "Noční tango",
+            "children": []
           },
           {
             "filename": "nocni_tango_011.md",
@@ -320,6 +320,6 @@
       "user": "books-are-next",
       "repo": "kratochvil-nocni-tango-aneb-roman-jednoho-leta-z-konce-stoleti"
     },
-    "generatedAt": 1660285416590
+    "generatedAt": 1660285762271
   }
 }

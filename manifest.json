@@ -1,0 +1,193 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Noční tango",
+  "author": "Jiří Kratochvil",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "kratochvil-nocni-tango-6e1bc3e",
+  "revision": "6e1bc3e",
+  "readingOrder": [
+    "promo.html",
+    "nocni_tango_005.html",
+    "nocni_tango_006.html",
+    "nocni_tango_007.html",
+    "nocni_tango_008.html",
+    "nocni_tango_009.html",
+    "nocni_tango_010.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Fri Aug 12 2022 06:25:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1660285501103
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "nocni_tango_005.html",
+      "toc": []
+    },
+    {
+      "title": "Noční tango",
+      "file": "nocni_tango_005.html",
+      "words": 18,
+      "chars": 112,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "nocni_tango_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Noční tango",
+      "file": "nocni_tango_006.html",
+      "words": 20,
+      "chars": 115,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 2,
+      "prev": "nocni_tango_005.html",
+      "next": "nocni_tango_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1. DÍL V Brně na Kolišti",
+      "file": "nocni_tango_007.html",
+      "words": 9803,
+      "chars": 58857,
+      "ideas": 219,
+      "role": "chapter",
+      "order": 3,
+      "prev": "nocni_tango_006.html",
+      "next": "nocni_tango_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1. DÍL V Brně na Kolišti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2. DÍL Vzhůru na Sibiř",
+      "file": "nocni_tango_008.html",
+      "words": 10185,
+      "chars": 60640,
+      "ideas": 245,
+      "role": "chapter",
+      "order": 4,
+      "prev": "nocni_tango_007.html",
+      "next": "nocni_tango_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2. DÍL Vzhůru na Sibiř",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3. DÍL Křik Mínótaurův",
+      "file": "nocni_tango_009.html",
+      "words": 9975,
+      "chars": 59405,
+      "ideas": 138,
+      "role": "chapter",
+      "order": 5,
+      "prev": "nocni_tango_008.html",
+      "next": "nocni_tango_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3. DÍL Křik Mínótaurův",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4. DÍL Noční tango",
+      "file": "nocni_tango_010.html",
+      "words": 14630,
+      "chars": 87581,
+      "ideas": 304,
+      "role": "chapter",
+      "order": 6,
+      "prev": "nocni_tango_009.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4. DÍL Noční tango",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 144,
+      "chars": 921,
+      "ideas": 16,
+      "role": "about",
+      "order": null,
+      "prev": "nocni_tango_010.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 44781,
+      "chars": 267668,
+      "ideas": 941
+    },
+    "chapters": {
+      "words": 44631,
+      "chars": 266710,
+      "ideas": 921
+    }
+  }
+}

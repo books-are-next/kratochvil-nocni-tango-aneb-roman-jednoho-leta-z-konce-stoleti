@@ -407,10 +407,10 @@ Ale než se vzedmula další vlna skandování, pan profesor si dalším gestem 
 
 <section>
 
-_Když mi dáš pac  
+Když mi dáš pac  
 To naše paci paci  
 Všechno změní  
-Po dlouhé noci přijde rozednění…_
+Po dlouhé noci přijde rozednění…
 
 </section>
 

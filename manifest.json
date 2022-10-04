@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kratochvil-nocni-tango-b20915a",
-  "revision": "b20915a",
+  "identifier": "kratochvil-nocni-tango-c08f236",
+  "revision": "c08f236",
   "readingOrder": [
     "promo.html",
     "nocni_tango_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:58:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639922602
+    "date": "Tue Oct 04 2022 16:46:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901983064
   },
   "documents": [
     {

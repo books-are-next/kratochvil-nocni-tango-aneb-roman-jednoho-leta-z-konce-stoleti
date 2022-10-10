@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kratochvil-nocni-tango-350155e",
-  "revision": "350155e",
+  "identifier": "kratochvil-nocni-tango-813082a",
+  "revision": "813082a",
   "readingOrder": [
     "promo.html",
     "nocni_tango_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:51:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150694592
+    "date": "Mon Oct 10 2022 15:44:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416640006
   },
   "documents": [
     {
@@ -161,7 +161,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 144,
-      "chars": 921,
+      "chars": 922,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -181,7 +181,7 @@
   "totals": {
     "all": {
       "words": 44781,
-      "chars": 267668,
+      "chars": 267669,
       "ideas": 941
     },
     "chapters": {

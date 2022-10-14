@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2794-9
 readingOrder:
   - promo.html
   - nocni_tango_005.html
